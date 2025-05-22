@@ -15,6 +15,8 @@ A curated list of programs and tools to optimize your workflow and boost product
 - [Bruno](#bruno)  
 - [Obsidian](#obsidian)  
 - [Raycast](#raycast)  
+- [Zen Browser](#zen-browser)  
+- [AltTab](#alttab)  
 - [Contributing](#contributing)  
 
 ---
@@ -82,6 +84,18 @@ A curated list of programs and tools to optimize your workflow and boost product
 ## Raycast  
 **Raycast** is a productivity tool that replaces the macOS Spotlight with a faster and more extensible alternative.  
 🔗 [Raycast Official Website](https://www.raycast.com/)  
+
+---
+
+## Zen Browser  
+**Zen Browser** is a minimalist web browser designed for distraction-free browsing and enhanced productivity.  
+🔗 [Zen Browser Official Website](https://zenbrowser.app/)  
+
+---
+
+## AltTab  
+**AltTab** brings Windows-like window switching to macOS, allowing you to quickly navigate between open applications with a preview.  
+🔗 [AltTab Official Website](https://alt-tab-macos.netlify.app/)  
 
 ---
 
