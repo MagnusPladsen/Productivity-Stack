@@ -32,8 +32,7 @@ A curated list of programs and tools to optimize your workflow and boost product
 ### Browsers
 - [Zen Browser](#zen-browser)  
 
-### Contributing
-- [Contributing](#contributing)  
+## Contributing
 
 ---
 
