@@ -4,45 +4,78 @@ A curated list of programs and tools to optimize your workflow and boost product
 ---
 
 ## Table of Contents  
-- [Neovim](#neovim)  
-- [Espanso](#espanso)  
-- [Lazygit](#lazygit)  
-- [Zoxide](#zoxide)  
-- [bat](#bat)  
-- [eza](#eza)  
-- [tmux](#tmux)  
+### Terminals
+- [Kitty](#kitty)
 - [iTerm2](#iterm2)  
-- [Bruno](#bruno)  
-- [Obsidian](#obsidian)  
-- [Raycast](#raycast)  
-- [Zen Browser](#zen-browser)  
-- [AltTab](#alttab)  
-- [Contributing](#contributing)
 - [Warp](#warp)  
 
+### Terminal Tools
+- [Oh My Zsh](#oh-my-zsh)  
+- [lazygit](#lazygit)  
+- [tmux](#tmux)  
+- [zoxide](#zoxide)  
+- [bat](#bat)  
+- [eza](#eza)  
+
+### Editors
+- [Neovim](#neovim)  
+- [Obsidian](#obsidian)  
+
+### Development Tools
+- [Bruno](#bruno)  
+
+### Productivity Tools
+- [Espanso](#espanso)  
+- [Raycast](#raycast)  
+- [AltTab](#alttab)  
+
+### Browsers
+- [Zen Browser](#zen-browser)  
+
+### Contributing
+- [Contributing](#contributing)  
+
 ---
 
-## Neovim  
-**Neovim** is a hyper-extensible Vim-based text editor designed for efficiency and customization. It’s perfect for developers who want a lightweight yet powerful editor.  
-🔗 [Neovim Official Website](https://neovim.io/)  
+## Kitty  
+**Kitty** is a fast, feature-rich, and GPU-accelerated terminal emulator for macOS and Linux.  
+🔗 [Kitty Official Website](https://sw.kovidgoyal.net/kitty/)  
 
 ---
 
-## Espanso  
-**Espanso** is a cross-platform text expander that helps you automate repetitive typing tasks.  
-🔗 [Espanso Official Website](https://espanso.org/)  
+## iTerm2  
+**iTerm2** is a powerful terminal emulator for macOS with features like split panes, search, and customization.  
+🔗 [iTerm2 Official Website](https://iterm2.com/)  
 
 ---
 
-## Lazygit  
-**Lazygit** is a simple terminal UI for Git commands, making version control more intuitive and efficient.  
-🔗 [Lazygit GitHub Repository](https://github.com/jesseduffield/lazygit)  
+## Warp  
+**Warp** gives you an AI terminal for Mac. The AI allows you to be more productive by including features like command prediction, auto fill, and auto complete.  
+🔗 [Warp Official Website](https://www.warp.dev/)  
 
 ---
 
-## Zoxide  
-**Zoxide** is a smarter `cd` command that learns your most-used directories for quick navigation.  
-🔗 [Zoxide GitHub Repository](https://github.com/ajeetdsouza/zoxide)  
+## Oh My Zsh  
+**Oh My Zsh** is a framework for managing your Zsh configuration, with plugins and themes to supercharge your terminal experience.  
+🔗 [Oh My Zsh GitHub Repository](https://github.com/ohmyzsh/ohmyzsh)  
+
+---
+
+## lazygit  
+**lazygit** is a simple terminal UI for Git commands, making version control more intuitive and efficient.  
+🔗 [lazygit GitHub Repository](https://github.com/jesseduffield/lazygit)  
+
+---
+
+## tmux  
+**tmux** is a terminal multiplexer that lets you manage multiple terminal sessions in a single window.  
+🔗 [tmux GitHub Repository](https://github.com/tmux/tmux)  
+
+---
+
+## zoxide  
+**zoxide** is a smarter `cd` command that learns your most-used directories for quick navigation.  
+🔗 [zoxide GitHub Repository](https://github.com/ajeetdsouza/zoxide)  
 
 ---
 
@@ -58,21 +91,9 @@ A curated list of programs and tools to optimize your workflow and boost product
 
 ---
 
-## tmux  
-**tmux** is a terminal multiplexer that lets you manage multiple terminal sessions in a single window.  
-🔗 [tmux GitHub Repository](https://github.com/tmux/tmux)  
-
----
-
-## iTerm2  
-**iTerm2** is a powerful terminal emulator for macOS with features like split panes, search, and customization.  
-🔗 [iTerm2 Official Website](https://iterm2.com/)  
-
----
-
-## Bruno  
-**Bruno** is a modern API client for testing and debugging APIs, designed for simplicity and speed.  
-🔗 [Bruno Official Website](https://www.usebruno.com/)  
+## Neovim  
+**Neovim** is a hyper-extensible Vim-based text editor designed for efficiency and customization. It’s perfect for developers who want a lightweight yet powerful editor.  
+🔗 [Neovim Official Website](https://neovim.io/)  
 
 ---
 
@@ -82,15 +103,21 @@ A curated list of programs and tools to optimize your workflow and boost product
 
 ---
 
-## Raycast  
-**Raycast** is a productivity tool that replaces the macOS Spotlight with a faster and more extensible alternative.  
-🔗 [Raycast Official Website](https://www.raycast.com/)  
+## Bruno  
+**Bruno** is a modern API client for testing and debugging APIs, designed for simplicity and speed.  
+🔗 [Bruno Official Website](https://www.usebruno.com/)  
 
 ---
 
-## Zen Browser  
-**Zen Browser** is a minimalist web browser designed for distraction-free browsing and enhanced productivity.  
-🔗 [Zen Browser Official Website](https://zenbrowser.app/)  
+## Espanso  
+**Espanso** is a cross-platform text expander that helps you automate repetitive typing tasks.  
+🔗 [Espanso Official Website](https://espanso.org/)  
+
+---
+
+## Raycast  
+**Raycast** is a productivity tool that replaces the macOS Spotlight with a faster and more extensible alternative.  
+🔗 [Raycast Official Website](https://www.raycast.com/)  
 
 ---
 
@@ -100,9 +127,9 @@ A curated list of programs and tools to optimize your workflow and boost product
 
 ---
 
-## Warp  
-**Warp** gives you an AI terminal for Mac. The AI allows you to be more productivity by including features like command prediction, auto fill, auto complete and so on.  
-🔗 [Warp Official Website](https://www.warp.dev/)  
+## Zen Browser  
+**Zen Browser** is a minimalist web browser designed for distraction-free browsing and enhanced productivity.  
+🔗 [Zen Browser Official Website](https://zenbrowser.app/)  
 
 ---
 
