@@ -17,7 +17,8 @@ A curated list of programs and tools to optimize your workflow and boost product
 - [Raycast](#raycast)  
 - [Zen Browser](#zen-browser)  
 - [AltTab](#alttab)  
-- [Contributing](#contributing)  
+- [Contributing](#contributing)
+- [Warp](#warp)  
 
 ---
 
@@ -96,6 +97,12 @@ A curated list of programs and tools to optimize your workflow and boost product
 ## AltTab  
 **AltTab** brings Windows-like window switching to macOS, allowing you to quickly navigate between open applications with a preview.  
 🔗 [AltTab Official Website](https://alt-tab-macos.netlify.app/)  
+
+---
+
+## Warp  
+**Warp** gives you an AI terminal for Mac. The AI allows you to be more productivity by including features like command prediction, auto fill, auto complete and so on.  
+🔗 [Warp Official Website](https://www.warp.dev/)  
 
 ---
 
