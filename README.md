@@ -31,6 +31,8 @@ A curated list of programs and tools to optimize your workflow and boost product
 ### Development Tools
 - [Bruno](#bruno)  
 - [Docker](#docker)  
+- [Insomnia](#insomnia)  
+- [Postman](#postman)  
 
 ### AI Tools
 - [Open WebUI](#open-webui)  
@@ -146,6 +148,14 @@ A curated list of programs and tools to optimize your workflow and boost product
 **Docker** is a platform for developing, shipping, and running applications in containers, ensuring consistency across environments.  
 🔗 [Docker Official Website](https://www.docker.com/)  
 
+### Insomnia  
+**Insomnia** is a powerful REST and GraphQL API client for testing and debugging APIs, with support for automation and collaboration.  
+🔗 [Insomnia Official Website](https://insomnia.rest/)  
+
+### Postman  
+**Postman** is a popular API development environment that simplifies API testing, documentation, and collaboration.  
+🔗 [Postman Official Website](https://www.postman.com/)  
+
 ---
 
 ## AI Tools
@@ -209,5 +219,3 @@ Want to add your favorite tools to this list? Follow these steps:
 1. Fork this repository.  
 2. Add your tool with a brief description and link.  
 3. Submit a pull request.  
-
----
