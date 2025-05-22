@@ -16,18 +16,37 @@ A curated list of programs and tools to optimize your workflow and boost product
 - [zoxide](#zoxide)  
 - [bat](#bat)  
 - [eza](#eza)  
+- [ripgrep](#ripgrep)  
+- [fd](#fd)  
 
 ### Editors
 - [Neovim](#neovim)  
+- [Neovide](#neovide)  
+
+### Note Taking
 - [Obsidian](#obsidian)  
+- [Joplin](#joplin)  
+- [Notion](#notion)  
 
 ### Development Tools
 - [Bruno](#bruno)  
+- [Docker](#docker)  
+
+### AI Tools
+- [Open WebUI](#open-webui)  
+- [Open Router](#open-router)  
+
+### Package Managers
+- [Homebrew](#homebrew)  
 
 ### Productivity Tools
 - [Espanso](#espanso)  
 - [Raycast](#raycast)  
 - [AltTab](#alttab)  
+- [Rectangle](#rectangle)  
+
+### Image Editing
+- [GIMP](#gimp)  
 
 ### Browsers
 - [Zen Browser](#zen-browser)  
@@ -60,8 +79,8 @@ A curated list of programs and tools to optimize your workflow and boost product
 🔗 [Oh My Zsh GitHub Repository](https://github.com/ohmyzsh/ohmyzsh)  
 
 ### lazygit  
-**lazygit** is a simple terminal UI for Git commands, making version control more intuitive and efficient.  
-🔗 [lazygit GitHub Repository](https://github.com/jesseduffield/lazygit)  
+**Lazygit** is a simple terminal UI for Git commands, making version control more intuitive and efficient.  
+🔗 [Lazygit GitHub Repository](https://github.com/jesseduffield/lazygit)  
 
 ### tmux  
 **tmux** is a terminal multiplexer that lets you manage multiple terminal sessions in a single window.  
@@ -79,6 +98,14 @@ A curated list of programs and tools to optimize your workflow and boost product
 **eza** is a modern replacement for `ls` with better defaults and more features, such as Git integration and file icons.  
 🔗 [eza GitHub Repository](https://github.com/eza-community/eza)  
 
+### ripgrep  
+**ripgrep** is a fast, modern alternative to `grep`, designed for searching large codebases efficiently.  
+🔗 [ripgrep GitHub Repository](https://github.com/BurntSushi/ripgrep)  
+
+### fd  
+**fd** is a simple, fast, and user-friendly alternative to `find`, designed for better defaults and usability.  
+🔗 [fd GitHub Repository](https://github.com/sharkdp/fd)  
+
 ---
 
 ## Editors
@@ -87,9 +114,25 @@ A curated list of programs and tools to optimize your workflow and boost product
 **Neovim** is a hyper-extensible Vim-based text editor designed for efficiency and customization. It’s perfect for developers who want a lightweight yet powerful editor.  
 🔗 [Neovim Official Website](https://neovim.io/)  
 
+### Neovide  
+**Neovide** is a modern GUI for Neovim, providing a smooth and visually pleasing editing experience.  
+🔗 [Neovide GitHub Repository](https://github.com/neovide/neovide)  
+
+---
+
+## Note Taking
+
 ### Obsidian  
 **Obsidian** is a knowledge-base and note-taking app that helps you organize and connect your thoughts.  
 🔗 [Obsidian Official Website](https://obsidian.md/)  
+
+### Joplin  
+**Joplin** is an open-source note-taking and to-do application with Markdown support and synchronization capabilities.  
+🔗 [Joplin Official Website](https://joplinapp.org/)  
+
+### Notion  
+**Notion** is an all-in-one workspace for notes, databases, tasks, and collaboration, designed for productivity and organization.  
+🔗 [Notion Official Website](https://www.notion.so/)  
 
 ---
 
@@ -98,6 +141,30 @@ A curated list of programs and tools to optimize your workflow and boost product
 ### Bruno  
 **Bruno** is a modern API client for testing and debugging APIs, designed for simplicity and speed.  
 🔗 [Bruno Official Website](https://www.usebruno.com/)  
+
+### Docker  
+**Docker** is a platform for developing, shipping, and running applications in containers, ensuring consistency across environments.  
+🔗 [Docker Official Website](https://www.docker.com/)  
+
+---
+
+## AI Tools
+
+### Open WebUI  
+**Open WebUI** is a web-based interface for interacting with AI models, providing a user-friendly way to manage and use AI tools.  
+🔗 [Open WebUI GitHub Repository](https://github.com/open-webui/open-webui)  
+
+### Open Router  
+**Open Router** is a routing tool designed for managing AI model interactions and API endpoints efficiently.  
+🔗 [Open Router Official Website](https://openrouter.ai/)  
+
+---
+
+## Package Managers
+
+### Homebrew  
+**Homebrew** is a package manager for macOS (and Linux) that simplifies the installation and management of software.  
+🔗 [Homebrew Official Website](https://brew.sh/)  
 
 ---
 
@@ -114,6 +181,18 @@ A curated list of programs and tools to optimize your workflow and boost product
 ### AltTab  
 **AltTab** brings Windows-like window switching to macOS, allowing you to quickly navigate between open applications with a preview.  
 🔗 [AltTab Official Website](https://alt-tab-macos.netlify.app/)  
+
+### Rectangle  
+**Rectangle** is a window management tool for macOS that lets you easily organize windows using keyboard shortcuts or by dragging them.  
+🔗 [Rectangle Official Website](https://rectangleapp.com/)  
+
+---
+
+## Image Editing
+
+### GIMP  
+**GIMP** is a free and open-source image editor for tasks like photo retouching, image composition, and more.  
+🔗 [GIMP Official Website](https://www.gimp.org/)  
 
 ---
 
