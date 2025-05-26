@@ -22,6 +22,12 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 ### Editors
 - [Neovim](#neovim)  
 - [Neovide](#neovide)  
+- [VSCode](#vscode)  
+
+### Neovim Distributions
+- [AstroNvim](#astronvim)  
+- [LazyVim](#lazyvim)  
+- [NvChad](#nvchad)  
 
 ### Note Taking
 - [Obsidian](#obsidian)  
@@ -33,6 +39,11 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 - [Docker](#docker)  
 - [Insomnia](#insomnia)  
 - [Postman](#postman)  
+
+### Design Tools
+- [Penpot](#penpot)  
+- [Modulz](#modulz)  
+- [Draw.io](#drawio)  
 
 ### AI Tools
 - [Open WebUI](#open-webui)  
@@ -120,6 +131,26 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Neovide** is a modern GUI for Neovim, providing a smooth and visually pleasing editing experience.  
 🔗 [Neovide GitHub Repository](https://github.com/neovide/neovide)  
 
+### VSCode  
+**VSCode** is a lightweight but powerful source code editor with built-in support for debugging, Git, and extensions.  
+🔗 [VSCode Official Website](https://code.visualstudio.com/)  
+
+---
+
+## Neovim Distributions
+
+### AstroNvim  
+**AstroNvim** is a modular Neovim distribution with a focus on simplicity and performance, built for developers who want a ready-to-go setup.  
+🔗 [AstroNvim GitHub Repository](https://github.com/AstroNvim/AstroNvim)  
+
+### LazyVim  
+**LazyVim** is a Neovim configuration designed to be fast, modular, and easy to customize, with lazy-loading plugins for optimal performance.  
+🔗 [LazyVim GitHub Repository](https://github.com/LazyVim/LazyVim)  
+
+### NvChad  
+**NvChad** is a modern Neovim configuration framework that provides a beautiful UI and a curated set of plugins for enhanced productivity.  
+🔗 [NvChad GitHub Repository](https://github.com/NvChad/NvChad)  
+
 ---
 
 ## Note Taking
@@ -155,6 +186,22 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 ### Postman  
 **Postman** is a popular API development environment that simplifies API testing, documentation, and collaboration.  
 🔗 [Postman Official Website](https://www.postman.com/)  
+
+---
+
+## Design Tools
+
+### Penpot  
+**Penpot** is an open-source design and prototyping tool for teams, with a focus on collaboration and cross-platform compatibility.  
+🔗 [Penpot Official Website](https://penpot.app/)  
+
+### Modulz  
+**Modulz** is a design and development platform that bridges the gap between designers and developers with a single tool for creating and sharing components.  
+🔗 [Modulz Official Website](https://www.modulz.app/)  
+
+### Draw.io  
+**Draw.io** is a free, open-source diagramming tool for creating flowcharts, wireframes, and other visual representations.  
+🔗 [Draw.io Official Website](https://www.drawio.com/)  
 
 ---
 
@@ -219,3 +266,5 @@ Want to add your favorite tools to this list? Follow these steps:
 1. Fork this repository.  
 2. Add your tool with a brief description and link.  
 3. Submit a pull request.  
+
+---
