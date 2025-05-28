@@ -4,80 +4,80 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 
 ## Table of Contents  
 ### Terminals  
-*   Kitty  
-*   iTerm2  
-*   Warp  
-*   Ghostty  
+- [Kitty](#kitty)  
+- [iTerm2](#iterm2)  
+- [Warp](#warp)  
+- [Ghostty](#ghostty)  
 
 ### Terminal Tools  
-*   Oh My Zsh  
-*   lazygit  
-*   tmux  
-*   zoxide  
-*   bat  
-*   eza  
-*   ripgrep  
-*   fd  
-*   htop  
-*   fzf  
-*   git  
-*   curl  
-*   tldr  
-*   jq  
-*   ncdu  
-*   asciinema  
+- [Oh My Zsh](#oh-my-zsh)  
+- [lazygit](#lazygit)  
+- [tmux](#tmux)  
+- [zoxide](#zoxide)  
+- [bat](#bat)  
+- [eza](#eza)  
+- [ripgrep](#ripgrep)  
+- [fd](#fd)  
+- [htop](#htop)  
+- [fzf](#fzf)  
+- [git](#git)  
+- [curl](#curl)  
+- [tldr](#tldr)  
+- [jq](#jq)  
+- [ncdu](#ncdu)  
+- [asciinema](#asciinema)  
 
 ### Editors  
-*   Neovim  
-*   Neovide  
-*   VSCode  
+- [Neovim](#neovim)  
+- [Neovide](#neovide)  
+- [VSCode](#vscode)  
 
 ### Neovim Distributions  
-*   AstroNvim  
-*   LazyVim  
-*   NvChad  
+- [AstroNvim](#astronvim)  
+- [LazyVim](#lazyvim)  
+- [NvChad](#nvchad)  
 
 ### Note Taking  
-*   Obsidian  
-*   Joplin  
-*   Notion  
+- [Obsidian](#obsidian)  
+- [Joplin](#joplin)  
+- [Notion](#notion)  
 
 ### Development Tools  
-*   Bruno  
-*   Docker  
-*   Insomnia  
-*   Postman  
+- [Bruno](#bruno)  
+- [Docker](#docker)  
+- [Insomnia](#insomnia)  
+- [Postman](#postman)  
 
 ### Design Tools  
-*   Penpot  
-*   Modulz  
-*   Draw.io  
+- [Penpot](#penpot)  
+- [Modulz](#modulz)  
+- [Draw.io](#drawio)  
 
 ### AI Tools  
-*   Open WebUI  
-*   Open Router  
+- [Open WebUI](#open-webui)  
+- [Open Router](#open-router)  
 
 ### Package Managers  
-*   Homebrew  
+- [Homebrew](#homebrew)  
 
 ### Productivity Tools  
-*   Espanso  
-*   Raycast  
-*   AltTab  
-*   Rectangle  
+- [Espanso](#espanso)  
+- [Raycast](#raycast)  
+- [AltTab](#alttab)  
+- [Rectangle](#rectangle)  
 
 ### Image Editing  
-*   GIMP  
+- [GIMP](#gimp)  
 
 ### Browsers  
-*   Zen Browser  
+- [Zen Browser](#zen-browser)  
 
 ### Contributing  
-*   Contributing  
+- [Contributing](#contributing)  
 
 * * *
 
-## Terminals  
+### Terminals  
 ### Kitty  
 **Kitty** is a fast, feature-rich, and GPU-accelerated terminal emulator for macOS and Linux.  
 🔗 [Kitty Official Website](https://sw.kovidgoyal.net/kitty/)  
@@ -96,7 +96,7 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 
 * * *
 
-## Terminal Tools  
+### Terminal Tools  
 ### Oh My Zsh  
 **Oh My Zsh** is a framework for managing your Zsh configuration, with plugins and themes to supercharge your terminal experience.  
 🔗 [Oh My Zsh GitHub Repository](https://github.com/ohmyzsh/ohmyzsh)  
