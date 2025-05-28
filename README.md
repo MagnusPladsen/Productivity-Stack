@@ -1,76 +1,83 @@
 # Productivity Stack  
 A curated list of free programs and tools to optimize your workflow and boost productivity.  
-
----
+* * *
 
 ## Table of Contents  
-### Terminals
-- [Kitty](#kitty)
-- [iTerm2](#iterm2)  
-- [Warp](#warp)  
+### Terminals  
+*   Kitty  
+*   iTerm2  
+*   Warp  
+*   Ghostty  
 
-### Terminal Tools
-- [Oh My Zsh](#oh-my-zsh)  
-- [lazygit](#lazygit)  
-- [tmux](#tmux)  
-- [zoxide](#zoxide)  
-- [bat](#bat)  
-- [eza](#eza)  
-- [ripgrep](#ripgrep)  
-- [fd](#fd)  
+### Terminal Tools  
+*   Oh My Zsh  
+*   lazygit  
+*   tmux  
+*   zoxide  
+*   bat  
+*   eza  
+*   ripgrep  
+*   fd  
+*   htop  
+*   fzf  
+*   git  
+*   curl  
+*   tldr  
+*   jq  
+*   ncdu  
+*   asciinema  
 
-### Editors
-- [Neovim](#neovim)  
-- [Neovide](#neovide)  
-- [VSCode](#vscode)  
+### Editors  
+*   Neovim  
+*   Neovide  
+*   VSCode  
 
-### Neovim Distributions
-- [AstroNvim](#astronvim)  
-- [LazyVim](#lazyvim)  
-- [NvChad](#nvchad)  
+### Neovim Distributions  
+*   AstroNvim  
+*   LazyVim  
+*   NvChad  
 
-### Note Taking
-- [Obsidian](#obsidian)  
-- [Joplin](#joplin)  
-- [Notion](#notion)  
+### Note Taking  
+*   Obsidian  
+*   Joplin  
+*   Notion  
 
-### Development Tools
-- [Bruno](#bruno)  
-- [Docker](#docker)  
-- [Insomnia](#insomnia)  
-- [Postman](#postman)  
+### Development Tools  
+*   Bruno  
+*   Docker  
+*   Insomnia  
+*   Postman  
 
-### Design Tools
-- [Penpot](#penpot)  
-- [Modulz](#modulz)  
-- [Draw.io](#drawio)  
+### Design Tools  
+*   Penpot  
+*   Modulz  
+*   Draw.io  
 
-### AI Tools
-- [Open WebUI](#open-webui)  
-- [Open Router](#open-router)  
+### AI Tools  
+*   Open WebUI  
+*   Open Router  
 
-### Package Managers
-- [Homebrew](#homebrew)  
+### Package Managers  
+*   Homebrew  
 
-### Productivity Tools
-- [Espanso](#espanso)  
-- [Raycast](#raycast)  
-- [AltTab](#alttab)  
-- [Rectangle](#rectangle)  
+### Productivity Tools  
+*   Espanso  
+*   Raycast  
+*   AltTab  
+*   Rectangle  
 
-### Image Editing
-- [GIMP](#gimp)  
+### Image Editing  
+*   GIMP  
 
-### Browsers
-- [Zen Browser](#zen-browser)  
+### Browsers  
+*   Zen Browser  
 
-### Contributing
-- [Contributing](#contributing)  
+### Contributing  
+*   Contributing  
 
----
+* * *
 
-## Terminals
-
+## Terminals  
 ### Kitty  
 **Kitty** is a fast, feature-rich, and GPU-accelerated terminal emulator for macOS and Linux.  
 🔗 [Kitty Official Website](https://sw.kovidgoyal.net/kitty/)  
@@ -83,10 +90,13 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Warp** gives you an AI terminal for Mac. The AI allows you to be more productive by including features like command prediction, auto fill, and auto complete.  
 🔗 [Warp Official Website](https://www.warp.dev/)  
 
----
+### Ghostty  
+**Ghostty** is a modern terminal emulator with built-in support for tabs, splits, and a focus on performance.  
+🔗 [Ghostty GitHub Repository](https://github.com/Ghostty)  
 
-## Terminal Tools
+* * *
 
+## Terminal Tools  
 ### Oh My Zsh  
 **Oh My Zsh** is a framework for managing your Zsh configuration, with plugins and themes to supercharge your terminal experience.  
 🔗 [Oh My Zsh GitHub Repository](https://github.com/ohmyzsh/ohmyzsh)  
@@ -119,10 +129,41 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **fd** is a simple, fast, and user-friendly alternative to `find`, designed for better defaults and usability.  
 🔗 [fd GitHub Repository](https://github.com/sharkdp/fd)  
 
----
+### htop  
+**htop** is an interactive process viewer for monitoring system resources like CPU, memory, and processes.  
+🔗 [htop Official Website](https://htop.dev/)  
 
-## Editors
+### fzf  
+**fzf** is a fuzzy finder for the command line that helps you quickly search and filter files, commands, and more.  
+🔗 [fzf GitHub Repository](https://github.com/junegunn/fzf)  
 
+### git  
+**git** is a distributed version control system for tracking changes in source code during software development.  
+🔗 [git Official Website](https://git-scm.com/)  
+
+### curl  
+**curl** is a command-line tool for transferring data using various protocols like HTTP, FTP, and more.  
+🔗 [curl Official Website](https://curl.se/)  
+
+### tldr  
+**tldr** is a simplified and community-driven man page alternative for common command-line tools.  
+🔗 [tldr GitHub Repository](https://github.com/tldr-pages/tldr)  
+
+### jq  
+**jq** is a lightweight and flexible command-line JSON processor for parsing, filtering, and transforming JSON data.  
+🔗 [jq Official Website](https://stedolan.github.io/jq/)  
+
+### ncdu  
+**ncdu** is a disk usage analyzer with an easy-to-use interface for exploring and managing disk space.  
+🔗 [ncdu Official Website](https://dev.yorhel.nl/ncdu)  
+
+### asciinema  
+**asciinema** is a terminal session recorder that allows you to share your terminal sessions as interactive videos.  
+🔗 [asciinema Official Website](https://asciinema.org/)  
+
+* * *
+
+### Editors  
 ### Neovim  
 **Neovim** is a hyper-extensible Vim-based text editor designed for efficiency and customization. It’s perfect for developers who want a lightweight yet powerful editor.  
 🔗 [Neovim Official Website](https://neovim.io/)  
@@ -135,10 +176,9 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **VSCode** is a lightweight but powerful source code editor with built-in support for debugging, Git, and extensions.  
 🔗 [VSCode Official Website](https://code.visualstudio.com/)  
 
----
+* * *
 
-## Neovim Distributions
-
+### Neovim Distributions  
 ### AstroNvim  
 **AstroNvim** is a modular Neovim distribution with a focus on simplicity and performance, built for developers who want a ready-to-go setup.  
 🔗 [AstroNvim GitHub Repository](https://github.com/AstroNvim/AstroNvim)  
@@ -151,10 +191,9 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **NvChad** is a modern Neovim configuration framework that provides a beautiful UI and a curated set of plugins for enhanced productivity.  
 🔗 [NvChad GitHub Repository](https://github.com/NvChad/NvChad)  
 
----
+* * *
 
-## Note Taking
-
+### Note Taking  
 ### Obsidian  
 **Obsidian** is a knowledge-base and note-taking app that helps you organize and connect your thoughts.  
 🔗 [Obsidian Official Website](https://obsidian.md/)  
@@ -167,10 +206,9 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Notion** is an all-in-one workspace for notes, databases, tasks, and collaboration, designed for productivity and organization.  
 🔗 [Notion Official Website](https://www.notion.so/)  
 
----
+* * *
 
-## Development Tools
-
+### Development Tools  
 ### Bruno  
 **Bruno** is a modern API client for testing and debugging APIs, designed for simplicity and speed.  
 🔗 [Bruno Official Website](https://www.usebruno.com/)  
@@ -187,10 +225,9 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Postman** is a popular API development environment that simplifies API testing, documentation, and collaboration.  
 🔗 [Postman Official Website](https://www.postman.com/)  
 
----
+* * *
 
-## Design Tools
-
+### Design Tools  
 ### Penpot  
 **Penpot** is an open-source design and prototyping tool for teams, with a focus on collaboration and cross-platform compatibility.  
 🔗 [Penpot Official Website](https://penpot.app/)  
@@ -203,10 +240,9 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Draw.io** is a free, open-source diagramming tool for creating flowcharts, wireframes, and other visual representations.  
 🔗 [Draw.io Official Website](https://www.drawio.com/)  
 
----
+* * *
 
-## AI Tools
-
+### AI Tools  
 ### Open WebUI  
 **Open WebUI** is a web-based interface for interacting with AI models, providing a user-friendly way to manage and use AI tools.  
 🔗 [Open WebUI GitHub Repository](https://github.com/open-webui/open-webui)  
@@ -215,18 +251,16 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Open Router** is a routing tool designed for managing AI model interactions and API endpoints efficiently.  
 🔗 [Open Router Official Website](https://openrouter.ai/)  
 
----
+* * *
 
-## Package Managers
-
+### Package Managers  
 ### Homebrew  
 **Homebrew** is a package manager for macOS (and Linux) that simplifies the installation and management of software.  
 🔗 [Homebrew Official Website](https://brew.sh/)  
 
----
+* * *
 
-## Productivity Tools
-
+### Productivity Tools  
 ### Espanso  
 **Espanso** is a cross-platform text expander that helps you automate repetitive typing tasks.  
 🔗 [Espanso Official Website](https://espanso.org/)  
@@ -243,28 +277,24 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Rectangle** is a window management tool for macOS that lets you easily organize windows using keyboard shortcuts or by dragging them.  
 🔗 [Rectangle Official Website](https://rectangleapp.com/)  
 
----
+* * *
 
-## Image Editing
-
+### Image Editing  
 ### GIMP  
 **GIMP** is a free and open-source image editor for tasks like photo retouching, image composition, and more.  
 🔗 [GIMP Official Website](https://www.gimp.org/)  
 
----
+* * *
 
-## Browsers
-
+### Browsers  
 ### Zen Browser  
 **Zen Browser** is a minimalist web browser designed for distraction-free browsing and enhanced productivity.  
 🔗 [Zen Browser Official Website](https://zenbrowser.app/)  
 
----
+* * *
 
-## Contributing  
+### Contributing  
 Want to add your favorite tools to this list? Follow these steps:  
-1. Fork this repository.  
-2. Add your tool with a brief description and link.  
-3. Submit a pull request.  
-
----
+1.  Fork this repository.  
+2.  Add your tool with a brief description and link.  
+3.  Submit a pull request.  
