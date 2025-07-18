@@ -65,9 +65,9 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 - [Raycast](#raycast)  
 - [AltTab](#alttab)  
 - [Rectangle](#rectangle)
-- [Aerospace] (#aerospace)  
-- [Sketchybar] (#sketchybar)
-- [Janky Borders] (#jankyborders)
+- [Aerospace](#aerospace)  
+- [Sketchybar](#sketchybar)
+- [Janky Borders](#jankyborders)
 
 ### Image Editing  
 - [GIMP](#gimp)  
@@ -282,15 +282,15 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 
 ### Aerospace 
 **Aerospace** is a tiling window manager for macOS, offering keyboard-driven window management with splits, stacks, and workspace organization.
-🔗 Aerospace GitHub    
+🔗 [Aerospace Github](https://github.com/nikitabobko/Aerospace)    
 
 ### Sketchybar
 **Sketchybar** is a highly customizable status bar for macOS, replacing the default menu bar with minimalistic or feature-rich displays (e.g., CPU, time, weather).
-🔗 Sketchybar GitHub    
+🔗 [Sketchybar GitHub](https://github.com/FelixKratz/SketchyBar)    
 
 ### Janky Borders 
 **Janky Borders** adds subtle colored borders to windows (macOS/Linux) for visual distinction, useful for tiling WM users or multi-monitor setups.
-🔗 Janky Borders GitHub    
+🔗 [Janky Borders GitHub](https://github.com/noctuid/janky-borders)    
 
 * * *
 
