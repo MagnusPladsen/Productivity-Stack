@@ -64,7 +64,10 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 - [Espanso](#espanso)  
 - [Raycast](#raycast)  
 - [AltTab](#alttab)  
-- [Rectangle](#rectangle)  
+- [Rectangle](#rectangle)
+- [Aerospace] (#aerospace)  
+- [Sketchybar] (#sketchybar)
+- [Janky Borders] (#jankyborders)
 
 ### Image Editing  
 - [GIMP](#gimp)  
@@ -275,7 +278,19 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 
 ### Rectangle  
 **Rectangle** is a window management tool for macOS that lets you easily organize windows using keyboard shortcuts or by dragging them.  
-🔗 [Rectangle Official Website](https://rectangleapp.com/)  
+🔗 [Rectangle Official Website](https://rectangleapp.com/)
+
+### Aerospace 
+**Aerospace** is a tiling window manager for macOS, offering keyboard-driven window management with splits, stacks, and workspace organization.
+🔗 Aerospace GitHub    
+
+### Sketchybar
+**Sketchybar** is a highly customizable status bar for macOS, replacing the default menu bar with minimalistic or feature-rich displays (e.g., CPU, time, weather).
+🔗 Sketchybar GitHub    
+
+### Janky Borders 
+**Janky Borders** adds subtle colored borders to windows (macOS/Linux) for visual distinction, useful for tiling WM users or multi-monitor setups.
+🔗 Janky Borders GitHub    
 
 * * *
 
