@@ -67,7 +67,7 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 - [Rectangle](#rectangle)
 - [Aerospace](#aerospace)  
 - [Sketchybar](#sketchybar)
-- [Janky Borders](#jankyborders)
+- [Janky Borders](#janky-borders)
 
 ### Image Editing  
 - [GIMP](#gimp)  
