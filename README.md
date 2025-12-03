@@ -1,5 +1,5 @@
 # Productivity Stack  
-A curated list of free programs and tools to optimize your workflow and boost productivity.  
+A curated list of FREE programs and tools to optimize your workflow and boost productivity.  
 * * *
 
 ## Table of Contents  
