@@ -46,7 +46,7 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 - [Bruno](#bruno)  
 - [Docker](#docker)  
 - [Insomnia](#insomnia)  
-- [Postman](#postman)  
+- [Postman](#postman)
 
 ### Design Tools  
 - [Penpot](#penpot)  
@@ -55,7 +55,11 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 
 ### AI Tools  
 - [Open WebUI](#open-webui)  
-- [Open Router](#open-router)  
+- [Open Router](#open-router)
+- [Claude Code](#claude-code)  
+- [Crush](#crush)  
+- [Codex](#codex)  
+- [OpenCode](#opencode)  
 
 ### Package Managers  
 - [Homebrew](#homebrew)  
@@ -168,7 +172,7 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 
 ### Editors  
 ### Neovim  
-**Neovim** is a hyper-extensible Vim-based text editor designed for efficiency and customization. It’s perfect for developers who want a lightweight yet powerful editor.  
+**Neovim** is a hyper-extensible Vim-based text editor designed for efficiency and customization. It's perfect for developers who want a lightweight yet powerful editor.  
 🔗 [Neovim Official Website](https://neovim.io/)  
 
 ### Neovide  
@@ -254,6 +258,22 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 **Open Router** is a routing tool designed for managing AI model interactions and API endpoints efficiently.  
 🔗 [Open Router Official Website](https://openrouter.ai/)  
 
+### Claude Code  
+**Claude Code** is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. It integrates directly with your development environment and can navigate entire codebases, make multi-file edits, and handle Git workflows.  
+🔗 [Claude Code Official Website](https://claude.com/product/claude-code)  
+
+### Crush  
+**Crush** is a terminal-based AI coding agent developed by Charm that supports multiple LLMs and allows you to switch models mid-session while preserving context. It features session management, LSP integration for code intelligence, and MCP support for extending capabilities. Works across macOS, Linux, Windows, and BSD systems.  
+🔗 [Crush GitHub Repository](https://github.com/charmbracelet/crush)  
+
+### Codex  
+**Codex** is OpenAI's cloud-based AI coding agent that can work on multiple tasks in parallel. It's included in ChatGPT Plus, Pro, Business, Edu, and Enterprise plans. Codex can navigate your repo to edit files, run commands, execute tests, and integrate with GitHub for automated PR reviews and code maintenance.  
+🔗 [Codex Official Website](https://openai.com/codex/)  
+
+### OpenCode  
+**OpenCode** is an open-source AI coding agent built for the terminal with support for 75+ LLM providers. It features a native TUI with Plan and Build modes, multi-session capabilities, LSP integration for code intelligence, and can work with local models for offline use. Supports GitHub integration for automated PR reviews and issue management.  
+🔗 [OpenCode Official Website](https://opencode.ai/)  
+
 * * *
 
 ### Package Managers  
@@ -312,4 +332,4 @@ A curated list of free programs and tools to optimize your workflow and boost pr
 Want to add your favorite tools to this list? Follow these steps:  
 1.  Fork this repository.  
 2.  Add your tool with a brief description and link.  
-3.  Submit a pull request.  
+3.  Submit a pull request.
