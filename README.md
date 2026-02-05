@@ -45,6 +45,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 
 ### Development Tools  
 - [Bruno](#bruno)  
+- [DBeaver](#dbeaver)  
 - [Docker](#docker)  
 - [Insomnia](#insomnia)  
 - [Postman](#postman)
@@ -225,6 +226,10 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 ### Bruno  
 **Bruno** is a modern API client for testing and debugging APIs, designed for simplicity and speed.  
 🔗 [Bruno Official Website](https://www.usebruno.com/)  
+
+### DBeaver  
+**DBeaver** is a free, open-source, cross-platform database tool for managing and querying SQL databases.  
+🔗 [DBeaver Official Website](https://dbeaver.io/)  
 
 ### Docker  
 **Docker** is a platform for developing, shipping, and running applications in containers, ensuring consistency across environments.  
