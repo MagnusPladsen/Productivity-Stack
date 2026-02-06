@@ -243,6 +243,14 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 **Postman** is a popular API development environment that simplifies API testing, documentation, and collaboration.  
 🔗 [Postman Official Website](https://www.postman.com/)  
 
+### RAD Debugger
+**RAD Debugger** is a fast, modern native-code debugger for Windows, and soon Linux, with deep insight into CPU, memory, and execution state.  
+🔗 [RAD Debugger Official Website](https://github.com/EpicGamesExt/raddebugger/)  
+
+### RenderDoc
+**RenderDoc** is a free, open-source graphics debugger that lets developers capture and inspect frames to analyze how their GPU rendering works.  
+🔗 [RenderDoc Official Website](https://renderdoc.org/)  
+
 * * *
 
 ### Design Tools  
@@ -333,6 +341,10 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 ### GIMP  
 **GIMP** is a free and open-source image editor for tasks like photo retouching, image composition, and more.  
 🔗 [GIMP Official Website](https://www.gimp.org/)  
+
+### Krita  
+**Krita** Krita is a free, open-source digital painting, illustration and image editing program designed especially for artists and illustrators.  
+🔗 [Krita Official Website](https://krita.org/en/)  
 
 * * *
 
