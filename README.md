@@ -55,6 +55,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Docker](#docker)  
 - [Insomnia](#insomnia)  
 - [Postman](#postman)
+- [shadcn CLI](#shadcn-cli)
 
 ### Design Tools  
 - [Penpot](#penpot)  
@@ -273,6 +274,10 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 ### Postman  
 **Postman** is a popular API development environment that simplifies API testing, documentation, and collaboration.  
 🔗 [Postman Official Website](https://www.postman.com/)  
+
+### shadcn CLI
+**shadcn CLI** is a command-line tool for adding beautifully designed, accessible, and customizable UI components directly into your React and Next.js projects without installing a dependency library.
+🔗 [shadcn/ui Official Website](https://ui.shadcn.com/)
 
 ### RAD Debugger
 **RAD Debugger** is a fast, modern native-code debugger for Windows, and soon Linux, with deep insight into CPU, memory, and execution state.  
