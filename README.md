@@ -32,6 +32,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [figlet](#figlet)
 - [thefuck](#thefuck)
 - [gh](#gh)
+- [yazi](#yazi)
 
 ### Editors  
 - [Zed](#zed)
@@ -202,6 +203,10 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 ### gh
 **gh** is GitHub's official command-line tool for managing pull requests, issues, repositories, and workflows directly from the terminal.
 🔗 [gh Official Website](https://cli.github.com/)
+
+### yazi
+**yazi** is a blazing fast terminal file manager written in Rust, featuring async I/O, built-in image previews, vim motions, and a Lua-based plugin system.
+🔗 [yazi Official Website](https://yazi-rs.github.io/)
 
 * * *
 
