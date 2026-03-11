@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://keepassxc.org)
-- [GitHub Repository](https://github.com/keepassxreboot/keepassxc)
+- [GitHub Repository](https://github.com/keepassxreboot/keepassxc) ⭐ 26.2k
 
 ## Install
 

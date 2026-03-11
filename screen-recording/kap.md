@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://getkap.co)
-- [GitHub Repository](https://github.com/wulkano/Kap)
+- [GitHub Repository](https://github.com/wulkano/Kap) ⭐ 19.1k
 
 ## Install
 

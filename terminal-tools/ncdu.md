@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://dev.yorhel.nl/ncdu)
-- [GitHub Repository (unofficial fork)](https://github.com/rofl0r/ncdu)
+- [GitHub Repository (unofficial fork)](https://github.com/rofl0r/ncdu) ⭐ 657
 
 ## Install
 

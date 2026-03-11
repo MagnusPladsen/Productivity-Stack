@@ -6,6 +6,7 @@
 
 ## Links
 - [Official Website](https://claude.ai/code)
+- [GitHub Repository](https://github.com/anthropics/claude-code) ⭐ 76.6k
 - [npm Package](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 
 ## Install

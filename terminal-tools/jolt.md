@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://getjolt.sh/)
-- [GitHub Repository](https://github.com/jordond/jolt)
+- [GitHub Repository](https://github.com/jordond/jolt) ⭐ 443
 
 ## Install
 

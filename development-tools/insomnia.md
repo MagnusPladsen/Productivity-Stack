@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://insomnia.rest/)
-- [GitHub Repository](https://github.com/Kong/insomnia)
+- [GitHub Repository](https://github.com/Kong/insomnia) ⭐ 38.0k
 - [Documentation](https://docs.insomnia.rest/)
 
 ## Install

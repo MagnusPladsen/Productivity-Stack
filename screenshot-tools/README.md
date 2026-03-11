@@ -6,7 +6,7 @@ Screenshot capture and annotation utilities.
 
 | Tool | Platforms | Open Source | Free | Highlights |
 |------|-----------|-------------|------|------------|
-| [Flameshot](flameshot.md) | macOS, Linux, Windows | Yes | Yes | Annotation at capture time, blur, arrows, copy to clipboard |
+| [Flameshot](flameshot.md) ⭐ 29.5k | macOS, Linux, Windows | Yes | Yes | Annotation at capture time, blur, arrows, copy to clipboard |
 
 ## See Also
 

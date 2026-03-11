@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://schollz.com/software/croc/)
-- [GitHub Repository](https://github.com/schollz/croc)
+- [GitHub Repository](https://github.com/schollz/croc) ⭐ 34.3k
 
 ## Install
 

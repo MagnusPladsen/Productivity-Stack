@@ -6,7 +6,7 @@ Tools for installing and managing software packages on your system.
 
 | Tool | Platforms | Free | Notes |
 |------|-----------|------|-------|
-| [Homebrew](homebrew.md) | macOS, Linux | Yes | Most popular package manager for macOS; also works on Linux |
+| [Homebrew](homebrew.md) ⭐ 47.0k | macOS, Linux | Yes | Most popular package manager for macOS; also works on Linux |
 
 ## Resources
 

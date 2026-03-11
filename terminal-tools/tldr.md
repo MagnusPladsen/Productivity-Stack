@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://tldr.sh/)
-- [GitHub Repository](https://github.com/tldr-pages/tldr)
+- [GitHub Repository](https://github.com/tldr-pages/tldr) ⭐ 61.6k
 
 ## Install
 

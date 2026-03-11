@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://kiro.dev)
-- [GitHub Repository](https://github.com/kirodotdev/Kiro)
+- [GitHub Repository](https://github.com/kirodotdev/Kiro) ⭐ 3.2k
 - [Downloads](https://kiro.dev/downloads/)
 
 ## Install

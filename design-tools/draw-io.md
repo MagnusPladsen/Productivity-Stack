@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.drawio.com/)
-- [GitHub Repository](https://github.com/jgraph/drawio-desktop)
+- [GitHub Repository](https://github.com/jgraph/drawio-desktop) ⭐ 59.8k
 - [Web App](https://app.diagrams.net/)
 
 ## Install

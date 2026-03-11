@@ -5,7 +5,7 @@
 **Platforms:** macOS
 
 ## Links
-- [GitHub Repository](https://github.com/FelixKratz/SketchyBar)
+- [GitHub Repository](https://github.com/FelixKratz/SketchyBar) ⭐ 11.3k
 - [Documentation](https://felixkratz.github.io/SketchyBar/)
 
 ## Install

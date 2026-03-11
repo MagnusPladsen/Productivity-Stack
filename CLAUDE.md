@@ -23,7 +23,15 @@ Documentation-only repository containing a curated list of free productivity too
 ├── package-managers/      # Package management tools
 ├── productivity-tools/    # Window managers, text expanders, launchers
 ├── image-editing/         # Image editors
-└── browsers/              # Web browsers
+├── browsers/              # Web browsers
+├── screen-recording/      # Screen recording tools
+├── screenshot-tools/      # Screenshot utilities
+├── security/              # Security and password tools
+├── monitoring/            # System and performance monitoring
+├── virtualization/        # Container and VM tools
+├── system-utilities/      # macOS system utilities
+├── communication/         # Messaging and communication
+└── fonts/                 # Developer fonts
 ```
 
 Each category folder contains:

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://podman.io)
-- [GitHub Repository](https://github.com/containers/podman)
+- [GitHub Repository](https://github.com/containers/podman) ⭐ 31.0k
 
 ## Install
 

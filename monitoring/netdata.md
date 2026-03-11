@@ -9,7 +9,7 @@
 
 ## Links
 - [Official Website](https://netdata.cloud)
-- [GitHub Repository](https://github.com/netdata/netdata)
+- [GitHub Repository](https://github.com/netdata/netdata) ⭐ 78.0k
 
 ## Install
 

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://charm.sh/)
-- [GitHub Repository](https://github.com/charmbracelet/vhs)
+- [GitHub Repository](https://github.com/charmbracelet/vhs) ⭐ 18.9k
 
 ## Install
 

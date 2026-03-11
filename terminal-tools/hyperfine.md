@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://github.com/sharkdp/hyperfine)
-- [GitHub Repository](https://github.com/sharkdp/hyperfine)
+- [GitHub Repository](https://github.com/sharkdp/hyperfine) ⭐ 27.7k
 
 ## Install
 

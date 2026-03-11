@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://zellij.dev/)
-- [GitHub Repository](https://github.com/zellij-org/zellij)
+- [GitHub Repository](https://github.com/zellij-org/zellij) ⭐ 29.9k
 
 ## Install
 

@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/ducaale/xh)
+- [GitHub Repository](https://github.com/ducaale/xh) ⭐ 7.6k
 
 ## Install
 

@@ -7,7 +7,7 @@
 ## Links
 - [Official Website](https://krita.org/)
 - [Downloads](https://krita.org/en/download/)
-- [GitHub Repository](https://github.com/KDE/krita)
+- [GitHub Repository](https://github.com/KDE/krita) ⭐ 9.4k
 
 ## Install
 

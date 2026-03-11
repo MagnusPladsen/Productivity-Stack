@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://code.visualstudio.com/)
-- [GitHub Repository](https://github.com/microsoft/vscode)
+- [GitHub Repository](https://github.com/microsoft/vscode) ⭐ 182.6k
 - [Documentation](https://code.visualstudio.com/docs)
 - [Extension Marketplace](https://marketplace.visualstudio.com/vscode)
 

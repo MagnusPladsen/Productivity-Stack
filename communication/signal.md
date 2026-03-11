@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://signal.org)
-- [GitHub Repository](https://github.com/signalapp/Signal-Desktop)
+- [GitHub Repository](https://github.com/signalapp/Signal-Desktop) ⭐ 16.1k
 
 ## Install
 

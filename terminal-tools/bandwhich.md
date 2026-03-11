@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/imsnif/bandwhich)
+- [GitHub Repository](https://github.com/imsnif/bandwhich) ⭐ 11.6k
 
 ## Install
 

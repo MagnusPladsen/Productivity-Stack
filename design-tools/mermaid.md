@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://mermaid.js.org)
-- [GitHub Repository](https://github.com/mermaid-js/mermaid)
+- [GitHub Repository](https://github.com/mermaid-js/mermaid) ⭐ 86.7k
 - [Live Editor](https://mermaid.live)
 
 ## Use

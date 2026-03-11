@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/Nukesor/pueue)
+- [GitHub Repository](https://github.com/Nukesor/pueue) ⭐ 6.1k
 
 ## Install
 

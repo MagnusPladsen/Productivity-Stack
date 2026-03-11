@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://ui.shadcn.com/)
-- [GitHub Repository](https://github.com/shadcn-ui/ui)
+- [GitHub Repository](https://github.com/shadcn-ui/ui) ⭐ 109.2k
 - [Documentation](https://ui.shadcn.com/docs)
 - [CLI Reference](https://ui.shadcn.com/docs/cli)
 

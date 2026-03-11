@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.cmux.dev/)
-- [GitHub Repository](https://github.com/manaflow-ai/cmux)
+- [GitHub Repository](https://github.com/manaflow-ai/cmux) ⭐ 5k
 - [Documentation](https://term.cmux.dev/)
 
 ## Install

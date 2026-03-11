@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://eza.rocks/)
-- [GitHub Repository](https://github.com/eza-community/eza)
+- [GitHub Repository](https://github.com/eza-community/eza) ⭐ 20.5k
 - [Installation Guide](https://github.com/eza-community/eza/blob/main/INSTALL.md)
 
 ## Install

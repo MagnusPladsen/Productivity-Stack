@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://hoppscotch.io)
-- [GitHub Repository](https://github.com/hoppscotch/hoppscotch)
+- [GitHub Repository](https://github.com/hoppscotch/hoppscotch) ⭐ 78.3k
 - [Documentation](https://docs.hoppscotch.io)
 
 ## Install

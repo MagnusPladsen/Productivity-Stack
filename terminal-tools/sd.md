@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/chmln/sd)
+- [GitHub Repository](https://github.com/chmln/sd) ⭐ 7.0k
 
 ## Install
 

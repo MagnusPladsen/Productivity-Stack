@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://monitorcontrol.app)
-- [GitHub Repository](https://github.com/MonitorControl/MonitorControl)
+- [GitHub Repository](https://github.com/MonitorControl/MonitorControl) ⭐ 32.6k
 
 ## Install
 

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://clementtang.github.io/bottom/)
-- [GitHub Repository](https://github.com/ClementTsang/bottom)
+- [GitHub Repository](https://github.com/ClementTsang/bottom) ⭐ 13.0k
 
 ## Install
 

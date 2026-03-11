@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://ohmyz.sh/)
-- [GitHub Repository](https://github.com/ohmyzsh/ohmyzsh)
+- [GitHub Repository](https://github.com/ohmyzsh/ohmyzsh) ⭐ 185.3k
 
 ## Install
 

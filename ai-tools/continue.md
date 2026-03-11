@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://continue.dev)
-- [GitHub Repository](https://github.com/continuedev/continue)
+- [GitHub Repository](https://github.com/continuedev/continue) ⭐ 31.8k
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Continue.continue)
 - [JetBrains Plugin](https://plugins.jetbrains.com/plugin/22707-continue)
 

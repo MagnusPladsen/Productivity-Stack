@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://mac-stats.com)
-- [GitHub Repository](https://github.com/exelban/stats)
+- [GitHub Repository](https://github.com/exelban/stats) ⭐ 36.9k
 
 ## Install
 

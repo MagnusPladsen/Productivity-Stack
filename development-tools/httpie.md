@@ -8,7 +8,7 @@
 
 ## Links
 - [Official Website](https://httpie.io)
-- [GitHub Repository](https://github.com/httpie/cli)
+- [GitHub Repository](https://github.com/httpie/cli) ⭐ 37.7k
 - [Documentation](https://httpie.io/docs/cli)
 
 ## Install

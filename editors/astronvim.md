@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://astronvim.com/)
-- [GitHub Repository](https://github.com/AstroNvim/AstroNvim)
+- [GitHub Repository](https://github.com/AstroNvim/AstroNvim) ⭐ 14.2k
 - [Documentation](https://docs.astronvim.com/)
 
 ## Install

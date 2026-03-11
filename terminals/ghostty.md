@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://ghostty.org/)
-- [GitHub Repository](https://github.com/ghostty-org/ghostty)
+- [GitHub Repository](https://github.com/ghostty-org/ghostty) ⭐ 46.1k
 
 ## Install
 

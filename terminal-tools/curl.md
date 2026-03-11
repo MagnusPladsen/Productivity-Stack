@@ -6,6 +6,7 @@
 
 ## Links
 - [Official Website](https://curl.se/)
+- [GitHub Repository](https://github.com/curl/curl) ⭐ 41.2k
 - [Documentation](https://curl.se/docs/)
 - [Everything curl (book)](https://everything.curl.dev/)
 

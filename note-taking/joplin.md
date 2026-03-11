@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://joplinapp.org/)
-- [GitHub Repository](https://github.com/laurent22/joplin)
+- [GitHub Repository](https://github.com/laurent22/joplin) ⭐ 53.8k
 
 ## Install
 

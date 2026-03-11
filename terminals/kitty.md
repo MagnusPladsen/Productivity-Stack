@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://sw.kovidgoyal.net/kitty/)
-- [GitHub Repository](https://github.com/kovidgoyal/kitty)
+- [GitHub Repository](https://github.com/kovidgoyal/kitty) ⭐ 31.8k
 
 ## Install
 

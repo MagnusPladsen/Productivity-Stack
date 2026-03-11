@@ -8,7 +8,7 @@
 
 ## Links
 - [Official Website](https://excalidraw.com)
-- [GitHub Repository](https://github.com/excalidraw/excalidraw)
+- [GitHub Repository](https://github.com/excalidraw/excalidraw) ⭐ 118.6k
 - [Documentation](https://docs.excalidraw.com)
 
 ## Use

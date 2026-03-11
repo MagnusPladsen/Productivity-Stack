@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://wezterm.org)
-- [GitHub Repository](https://github.com/wezterm/wezterm)
+- [GitHub Repository](https://github.com/wezterm/wezterm) ⭐ 24.8k
 - [Documentation](https://wezterm.org/config/files.html)
 
 ## Install

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://starship.rs/)
-- [GitHub Repository](https://github.com/starship/starship)
+- [GitHub Repository](https://github.com/starship/starship) ⭐ 54.8k
 
 ## Install
 

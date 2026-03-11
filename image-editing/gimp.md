@@ -7,7 +7,7 @@
 ## Links
 - [Official Website](https://www.gimp.org/)
 - [Downloads](https://www.gimp.org/downloads/)
-- [GitHub Repository](https://github.com/GNOME/gimp)
+- [GitHub Repository](https://github.com/GNOME/gimp) ⭐ 6.0k
 
 ## Install
 

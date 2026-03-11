@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://dbeaver.io/)
-- [GitHub Repository](https://github.com/dbeaver/dbeaver)
+- [GitHub Repository](https://github.com/dbeaver/dbeaver) ⭐ 49.0k
 - [Documentation](https://dbeaver.com/docs/dbeaver/)
 
 ## Install

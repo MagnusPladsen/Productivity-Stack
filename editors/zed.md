@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://zed.dev/)
-- [GitHub Repository](https://github.com/zed-industries/zed)
+- [GitHub Repository](https://github.com/zed-industries/zed) ⭐ 76.9k
 - [Documentation](https://zed.dev/docs/)
 
 ## Install

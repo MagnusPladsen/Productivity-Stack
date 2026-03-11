@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://github.com/gitui-org/gitui)
-- [GitHub Repository](https://github.com/gitui-org/gitui)
+- [GitHub Repository](https://github.com/gitui-org/gitui) ⭐ 21.5k
 
 ## Install
 

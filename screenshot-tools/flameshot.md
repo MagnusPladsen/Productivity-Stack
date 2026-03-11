@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://flameshot.org)
-- [GitHub Repository](https://github.com/flameshot-org/flameshot)
+- [GitHub Repository](https://github.com/flameshot-org/flameshot) ⭐ 29.5k
 - [Documentation](https://flameshot.org/docs/installation/)
 
 ## Install

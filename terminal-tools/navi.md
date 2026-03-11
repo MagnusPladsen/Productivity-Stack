@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://github.com/denisidoro/navi)
-- [GitHub Repository](https://github.com/denisidoro/navi)
+- [GitHub Repository](https://github.com/denisidoro/navi) ⭐ 16.8k
 
 ## Install
 

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.lazyvim.org/)
-- [GitHub Repository](https://github.com/LazyVim/LazyVim)
+- [GitHub Repository](https://github.com/LazyVim/LazyVim) ⭐ 25.4k
 - [Installation Guide](https://www.lazyvim.org/installation)
 
 ## Install

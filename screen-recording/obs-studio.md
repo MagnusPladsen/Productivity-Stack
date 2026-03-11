@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://obsproject.com)
-- [GitHub Repository](https://github.com/obsproject/obs-studio)
+- [GitHub Repository](https://github.com/obsproject/obs-studio) ⭐ 70.8k
 
 ## Install
 

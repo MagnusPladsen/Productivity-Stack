@@ -6,6 +6,7 @@
 
 ## Links
 - [Official Website](http://www.figlet.org/)
+- [GitHub Repository](https://github.com/cmatsuoka/figlet) ⭐ 1.6k
 
 ## Install
 

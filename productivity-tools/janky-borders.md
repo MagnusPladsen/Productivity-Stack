@@ -5,7 +5,7 @@
 **Platforms:** macOS
 
 ## Links
-- [GitHub Repository](https://github.com/FelixKratz/JankyBorders)
+- [GitHub Repository](https://github.com/FelixKratz/JankyBorders) ⭐ 3.3k
 
 ## Install
 

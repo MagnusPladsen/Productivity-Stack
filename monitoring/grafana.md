@@ -9,7 +9,7 @@
 
 ## Links
 - [Official Website](https://grafana.com)
-- [GitHub Repository](https://github.com/grafana/grafana)
+- [GitHub Repository](https://github.com/grafana/grafana) ⭐ 72.7k
 
 ## Install
 

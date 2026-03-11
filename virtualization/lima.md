@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://lima-vm.io)
-- [GitHub Repository](https://github.com/lima-vm/lima)
+- [GitHub Repository](https://github.com/lima-vm/lima) ⭐ 20.4k
 
 ## Install
 

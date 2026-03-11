@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://iterm2.com/)
-- [GitHub Repository](https://github.com/gnachman/iTerm2)
+- [GitHub Repository](https://github.com/gnachman/iTerm2) ⭐ 17.1k
 
 ## Install
 

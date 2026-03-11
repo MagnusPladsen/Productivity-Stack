@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.warp.dev/)
-- [GitHub Repository](https://github.com/warpdotdev/Warp)
+- [GitHub Repository](https://github.com/warpdotdev/Warp) ⭐ 26.1k
 - [Documentation](https://docs.warp.dev/)
 
 ## Install

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://dandavison.github.io/delta/)
-- [GitHub Repository](https://github.com/dandavison/delta)
+- [GitHub Repository](https://github.com/dandavison/delta) ⭐ 29.4k
 
 ## Install
 

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://github.com/bootandy/dust)
-- [GitHub Repository](https://github.com/bootandy/dust)
+- [GitHub Repository](https://github.com/bootandy/dust) ⭐ 11.4k
 
 ## Install
 

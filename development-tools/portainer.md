@@ -8,7 +8,7 @@
 
 ## Links
 - [Official Website](https://portainer.io)
-- [GitHub Repository](https://github.com/portainer/portainer)
+- [GitHub Repository](https://github.com/portainer/portainer) ⭐ 36.8k
 - [Documentation](https://docs.portainer.io)
 
 ## Install

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://alt-tab-macos.netlify.app/)
-- [GitHub Repository](https://github.com/lwouis/alt-tab-macos)
+- [GitHub Repository](https://github.com/lwouis/alt-tab-macos) ⭐ 15.0k
 
 ## Install
 

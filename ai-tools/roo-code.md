@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://roocode.com)
-- [GitHub Repository](https://github.com/RooCodeInc/Roo-Code)
+- [GitHub Repository](https://github.com/RooCodeInc/Roo-Code) ⭐ 22.6k
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=RooVeterinaryInc.roo-cline)
 
 ## Install

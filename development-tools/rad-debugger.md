@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.radgametools.com/debug.htm)
-- [GitHub Repository](https://github.com/EpicGamesExt/raddebugger)
+- [GitHub Repository](https://github.com/EpicGamesExt/raddebugger) ⭐ 6.7k
 - [Releases](https://github.com/EpicGamesExt/raddebugger/releases)
 
 ## Install

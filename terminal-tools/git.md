@@ -6,6 +6,7 @@
 
 ## Links
 - [Official Website](https://git-scm.com/)
+- [GitHub Repository](https://github.com/git/git) ⭐ 59.6k
 - [Installation Docs](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Install

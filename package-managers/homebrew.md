@@ -7,7 +7,7 @@
 ## Links
 - [Official Website](https://brew.sh/)
 - [Documentation](https://docs.brew.sh/)
-- [GitHub Repository](https://github.com/Homebrew/brew)
+- [GitHub Repository](https://github.com/Homebrew/brew) ⭐ 47.0k
 
 ## Install
 
