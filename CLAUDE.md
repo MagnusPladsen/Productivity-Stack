@@ -39,6 +39,7 @@ Each category folder contains:
 - **Alternatives:** relative links to similar tools in the repo (e.g. `[Kitty](kitty.md)`)
 - **Platform tags:** only list platforms the tool actually supports
 - **Free tier transparency:** if a tool is not 100% free, clearly state the free tier limits (e.g. "Free tier: 500 requests/month") in the tool file description. Never list a tool as simply "free" if it has usage caps, feature gates, or paid tiers
+- **GitHub stars:** if a tool has a public GitHub repo, include the star count (e.g. `⭐ 28k`) in: the tool's `.md` file (after the GitHub link), the category `README.md` comparison table, and the root `README.md` TOC entry
 
 ## Adding a New Tool
 

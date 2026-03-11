@@ -12,3 +12,6 @@ Code editors, terminal editors, and Neovim distributions.
 | [AstroNvim](astronvim.md) | macOS, Linux, Windows | Yes | Aesthetic and feature-rich Neovim distribution |
 | [LazyVim](lazyvim.md) | macOS, Linux, Windows | Yes | Fast, modular Neovim config powered by lazy.nvim |
 | [NvChad](nvchad.md) | macOS, Linux, Windows | Yes | Blazing fast Neovim framework with a beautiful UI |
+| [Helix](helix.md) | macOS, Linux, Windows | Yes | Post-modern modal editor with built-in LSP and tree-sitter — no plugins needed |
+| [Lapce](lapce.md) | macOS, Linux, Windows | Yes | Lightning-fast Rust editor with GPU rendering and built-in LSP |
+| [Mark Text](mark-text.md) | macOS, Linux, Windows | Yes | Free WYSIWYG Markdown editor with real-time preview (Typora alternative) |
