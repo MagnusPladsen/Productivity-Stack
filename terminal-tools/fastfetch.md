@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/fastfetch-cli/fastfetch)
+- [GitHub Repository](https://github.com/fastfetch-cli/fastfetch) ⭐ 20.6k
 
 ## Install
 

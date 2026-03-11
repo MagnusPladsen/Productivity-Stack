@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/BurntSushi/ripgrep)
+- [GitHub Repository](https://github.com/BurntSushi/ripgrep) ⭐ 60.9k
 
 ## Install
 

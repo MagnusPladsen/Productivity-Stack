@@ -8,7 +8,7 @@
 
 ## Links
 - [Official Website](https://beekeeperstudio.io)
-- [GitHub Repository](https://github.com/beekeeper-studio/beekeeper-studio)
+- [GitHub Repository](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 22.2k
 - [Documentation](https://docs.beekeeperstudio.io)
 
 ## Install

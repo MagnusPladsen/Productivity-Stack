@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://lapce.dev)
-- [GitHub Repository](https://github.com/lapce/lapce)
+- [GitHub Repository](https://github.com/lapce/lapce) ⭐ 38.1k
 - [Documentation](https://docs.lapce.dev)
 
 ## Install

@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows (via WSL or Git Bash)
 
 ## Links
-- [GitHub Repository](https://github.com/block/goose)
+- [GitHub Repository](https://github.com/block/goose) ⭐ 32.8k
 - [Documentation](https://block.github.io/goose)
 
 ## Install

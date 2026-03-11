@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/tummychow/git-absorb)
+- [GitHub Repository](https://github.com/tummychow/git-absorb) ⭐ 5.4k
 
 ## Install
 

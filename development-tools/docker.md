@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.docker.com/)
-- [GitHub Repository](https://github.com/docker/docker-ce)
+- [GitHub Repository](https://github.com/docker/docker-ce) ⭐ 5.8k
 - [Documentation](https://docs.docker.com/)
 
 ## Install

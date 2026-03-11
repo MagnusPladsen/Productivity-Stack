@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/sharkdp/bat)
+- [GitHub Repository](https://github.com/sharkdp/bat) ⭐ 57.7k
 
 ## Install
 

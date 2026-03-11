@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://dystroy.org/broot/)
-- [GitHub Repository](https://github.com/Canop/broot)
+- [GitHub Repository](https://github.com/Canop/broot) ⭐ 12.5k
 
 ## Install
 

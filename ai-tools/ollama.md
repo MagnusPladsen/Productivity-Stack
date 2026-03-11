@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://ollama.com)
-- [GitHub Repository](https://github.com/ollama/ollama)
+- [GitHub Repository](https://github.com/ollama/ollama) ⭐ 164.9k
 
 ## Install
 

@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/google-gemini/gemini-cli)
+- [GitHub Repository](https://github.com/google-gemini/gemini-cli) ⭐ 97.3k
 
 ## Install
 

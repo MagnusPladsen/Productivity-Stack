@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://hurl.dev)
-- [GitHub Repository](https://github.com/Orange-OpenSource/hurl)
+- [GitHub Repository](https://github.com/Orange-OpenSource/hurl) ⭐ 18.6k
 - [Documentation](https://hurl.dev/docs/installation.html)
 
 ## Install

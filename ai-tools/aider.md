@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://aider.chat)
-- [GitHub Repository](https://github.com/Aider-AI/aider)
+- [GitHub Repository](https://github.com/Aider-AI/aider) ⭐ 41.8k
 
 ## Install
 

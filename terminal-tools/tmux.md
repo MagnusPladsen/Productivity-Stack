@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux
 
 ## Links
-- [GitHub Repository](https://github.com/tmux/tmux)
+- [GitHub Repository](https://github.com/tmux/tmux) ⭐ 42.9k
 - [Installation Wiki](https://github.com/tmux/tmux/wiki/Installing)
 
 ## Install

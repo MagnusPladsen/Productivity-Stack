@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://trippy.cli.rs/)
-- [GitHub Repository](https://github.com/fujiapple852/trippy)
+- [GitHub Repository](https://github.com/fujiapple852/trippy) ⭐ 6.7k
 
 ## Install
 

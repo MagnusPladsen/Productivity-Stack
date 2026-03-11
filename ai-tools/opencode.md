@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://opencode.ai/)
-- [GitHub Repository](https://github.com/opencode-ai/opencode)
+- [GitHub Repository](https://github.com/opencode-ai/opencode) ⭐ 11.3k
 - [Documentation](https://opencode.ai/docs/)
 
 ## Install

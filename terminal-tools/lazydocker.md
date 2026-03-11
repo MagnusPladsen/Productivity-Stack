@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://github.com/jesseduffield/lazydocker)
-- [GitHub Repository](https://github.com/jesseduffield/lazydocker)
+- [GitHub Repository](https://github.com/jesseduffield/lazydocker) ⭐ 50.1k
 
 ## Install
 

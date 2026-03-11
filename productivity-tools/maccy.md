@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://maccy.app)
-- [GitHub Repository](https://github.com/p0deje/Maccy)
+- [GitHub Repository](https://github.com/p0deje/Maccy) ⭐ 18.9k
 
 ## Install
 

@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/dalance/procs)
+- [GitHub Repository](https://github.com/dalance/procs) ⭐ 6.0k
 
 ## Install
 

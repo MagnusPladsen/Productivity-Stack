@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://ohmyposh.dev/)
-- [GitHub Repository](https://github.com/JanDeDobbeleer/oh-my-posh)
+- [GitHub Repository](https://github.com/JanDeDobbeleer/oh-my-posh) ⭐ 21.8k
 
 ## Install
 

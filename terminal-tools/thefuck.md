@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux
 
 ## Links
-- [GitHub Repository](https://github.com/nvbn/thefuck)
+- [GitHub Repository](https://github.com/nvbn/thefuck) ⭐ 95.7k
 
 ## Install
 

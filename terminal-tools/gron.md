@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://github.com/tomnomnom/gron)
-- [GitHub Repository](https://github.com/tomnomnom/gron)
+- [GitHub Repository](https://github.com/tomnomnom/gron) ⭐ 14.4k
 
 ## Install
 

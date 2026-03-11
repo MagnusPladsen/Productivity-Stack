@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/ajeetdsouza/zoxide)
+- [GitHub Repository](https://github.com/ajeetdsouza/zoxide) ⭐ 34.4k
 
 ## Install
 

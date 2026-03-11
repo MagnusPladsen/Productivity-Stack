@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://wireshark.org)
-- [GitHub Repository](https://github.com/wireshark/wireshark)
+- [GitHub Repository](https://github.com/wireshark/wireshark) ⭐ 9.1k
 
 ## Install
 

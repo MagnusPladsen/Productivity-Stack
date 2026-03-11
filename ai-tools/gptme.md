@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://gptme.org)
-- [GitHub Repository](https://github.com/gptme/gptme)
+- [GitHub Repository](https://github.com/gptme/gptme) ⭐ 4.2k
 
 ## Install
 

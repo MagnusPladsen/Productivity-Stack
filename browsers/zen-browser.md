@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://zen-browser.app/)
-- [GitHub Repository](https://github.com/zen-browser/desktop)
+- [GitHub Repository](https://github.com/zen-browser/desktop) ⭐ 40.6k
 - [Downloads](https://zen-browser.app/download/)
 
 ## Install

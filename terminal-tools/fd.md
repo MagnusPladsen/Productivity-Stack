@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/sharkdp/fd)
+- [GitHub Repository](https://github.com/sharkdp/fd) ⭐ 42.1k
 
 ## Install
 

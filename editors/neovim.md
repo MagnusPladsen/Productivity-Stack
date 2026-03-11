@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://neovim.io/)
-- [GitHub Repository](https://github.com/neovim/neovim)
+- [GitHub Repository](https://github.com/neovim/neovim) ⭐ 97.2k
 - [Install Guide](https://github.com/neovim/neovim/blob/master/INSTALL.md)
 
 ## Install

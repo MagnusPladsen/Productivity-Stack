@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://difftastic.wilfred.me.uk/)
-- [GitHub Repository](https://github.com/Wilfred/difftastic)
+- [GitHub Repository](https://github.com/Wilfred/difftastic) ⭐ 24.4k
 
 ## Install
 

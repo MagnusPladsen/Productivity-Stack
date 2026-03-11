@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://nmap.org)
-- [GitHub Repository](https://github.com/nmap/nmap)
+- [GitHub Repository](https://github.com/nmap/nmap) ⭐ 12.5k
 
 ## Install
 

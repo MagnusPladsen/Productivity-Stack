@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://cli.github.com/)
-- [GitHub Repository](https://github.com/cli/cli)
+- [GitHub Repository](https://github.com/cli/cli) ⭐ 43.1k
 - [Linux Install Docs](https://github.com/cli/cli/blob/trunk/docs/install_linux.md)
 
 ## Install

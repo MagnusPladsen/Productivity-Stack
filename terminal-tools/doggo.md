@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://doggo.mrkaran.dev/)
-- [GitHub Repository](https://github.com/mr-karan/doggo)
+- [GitHub Repository](https://github.com/mr-karan/doggo) ⭐ 4.2k
 
 ## Install
 

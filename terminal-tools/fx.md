@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://fx.wtf/)
-- [GitHub Repository](https://github.com/antonmedv/fx)
+- [GitHub Repository](https://github.com/antonmedv/fx) ⭐ 20.3k
 
 ## Install
 

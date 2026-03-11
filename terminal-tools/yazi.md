@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://yazi-rs.github.io/)
-- [GitHub Repository](https://github.com/sxyazi/yazi)
+- [GitHub Repository](https://github.com/sxyazi/yazi) ⭐ 33.7k
 - [Installation Docs](https://yazi-rs.github.io/docs/installation/)
 
 ## Install

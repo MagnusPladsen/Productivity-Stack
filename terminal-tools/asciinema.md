@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://asciinema.org/)
-- [GitHub Repository](https://github.com/asciinema/asciinema)
+- [GitHub Repository](https://github.com/asciinema/asciinema) ⭐ 17.0k
 - [Documentation](https://docs.asciinema.org/getting-started/)
 
 ## Install

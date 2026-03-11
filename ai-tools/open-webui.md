@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://openwebui.com/)
-- [GitHub Repository](https://github.com/open-webui/open-webui)
+- [GitHub Repository](https://github.com/open-webui/open-webui) ⭐ 126.7k
 - [Documentation](https://docs.openwebui.com/)
 
 ## Install

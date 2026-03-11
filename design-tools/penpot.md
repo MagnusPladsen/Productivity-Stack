@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://penpot.app/)
-- [GitHub Repository](https://github.com/penpot/penpot)
+- [GitHub Repository](https://github.com/penpot/penpot) ⭐ 44.8k
 - [Self-Hosting Guide](https://help.penpot.app/technical-guide/getting-started/)
 
 ## Install

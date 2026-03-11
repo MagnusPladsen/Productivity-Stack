@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://atuin.sh/)
-- [GitHub Repository](https://github.com/atuinsh/atuin)
+- [GitHub Repository](https://github.com/atuinsh/atuin) ⭐ 28.6k
 
 ## Pricing
 

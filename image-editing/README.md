@@ -6,8 +6,8 @@ Free and open-source tools for image editing and digital art creation.
 
 | Tool | Focus | Platforms | Free | Notes |
 |------|-------|-----------|------|-------|
-| [GIMP](gimp.md) | Photo editing & compositing | macOS, Linux, Windows | Yes | The most feature-complete free Photoshop alternative |
-| [Krita](krita.md) | Digital painting & illustration | macOS, Linux, Windows | Yes | Superior brush engine; aimed at artists rather than photo editors |
+| [GIMP](gimp.md) ⭐ 6.0k | Photo editing & compositing | macOS, Linux, Windows | Yes | The most feature-complete free Photoshop alternative |
+| [Krita](krita.md) ⭐ 9.4k | Digital painting & illustration | macOS, Linux, Windows | Yes | Superior brush engine; aimed at artists rather than photo editors |
 
 ## Choosing Between Them
 

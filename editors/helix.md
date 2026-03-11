@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://helix-editor.com)
-- [GitHub Repository](https://github.com/helix-editor/helix)
+- [GitHub Repository](https://github.com/helix-editor/helix) ⭐ 43.5k
 - [Documentation](https://docs.helix-editor.com)
 
 ## Install

@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/FiloSottile/mkcert)
+- [GitHub Repository](https://github.com/FiloSottile/mkcert) ⭐ 58.3k
 
 ## Install
 

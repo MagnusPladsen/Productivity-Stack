@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://neovide.dev/)
-- [GitHub Repository](https://github.com/neovide/neovide)
+- [GitHub Repository](https://github.com/neovide/neovide) ⭐ 14.8k
 - [Installation Guide](https://neovide.dev/installation.html)
 
 ## Install

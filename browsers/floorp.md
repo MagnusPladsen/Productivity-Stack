@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://floorp.app)
-- [GitHub Repository](https://github.com/Floorp-Projects/Floorp)
+- [GitHub Repository](https://github.com/Floorp-Projects/Floorp) ⭐ 8.0k
 - [Documentation](https://docs.floorp.app)
 
 ## Install

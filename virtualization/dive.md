@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/wagoodman/dive)
+- [GitHub Repository](https://github.com/wagoodman/dive) ⭐ 53.5k
 
 ## Install
 

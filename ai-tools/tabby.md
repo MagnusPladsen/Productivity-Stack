@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://tabbyml.com)
-- [GitHub Repository](https://github.com/TabbyML/tabby)
+- [GitHub Repository](https://github.com/TabbyML/tabby) ⭐ 33.0k
 
 ## Install
 

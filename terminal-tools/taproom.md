@@ -5,7 +5,7 @@
 **Platforms:** macOS
 
 ## Links
-- [GitHub Repository](https://github.com/hzqtc/taproom)
+- [GitHub Repository](https://github.com/hzqtc/taproom) ⭐ 499
 
 ## Install
 

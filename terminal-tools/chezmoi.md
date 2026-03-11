@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.chezmoi.io/)
-- [GitHub Repository](https://github.com/twpayne/chezmoi)
+- [GitHub Repository](https://github.com/twpayne/chezmoi) ⭐ 18.4k
 
 ## Install
 

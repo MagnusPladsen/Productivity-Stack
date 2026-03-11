@@ -7,7 +7,7 @@
 > **Note:** The Homebrew cask is deprecated as of August 2025 and scheduled for removal September 2026. On Apple Silicon, run `xattr -cr /Applications/MarkText.app` if you see a "damaged" warning.
 
 ## Links
-- [GitHub Repository](https://github.com/marktext/marktext)
+- [GitHub Repository](https://github.com/marktext/marktext) ⭐ 54.4k
 - [Official Website](https://www.marktext.cc)
 
 ## Install

@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/charmbracelet/crush)
+- [GitHub Repository](https://github.com/charmbracelet/crush) ⭐ 21.2k
 
 ## Install
 

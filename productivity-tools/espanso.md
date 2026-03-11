@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://espanso.org/)
-- [GitHub Repository](https://github.com/espanso/espanso)
+- [GitHub Repository](https://github.com/espanso/espanso) ⭐ 13.4k
 - [Documentation](https://espanso.org/docs/get-started/)
 
 ## Install

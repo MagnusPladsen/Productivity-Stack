@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://cline.bot)
-- [GitHub Repository](https://github.com/cline/cline)
+- [GitHub Repository](https://github.com/cline/cline) ⭐ 58.9k
 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
 
 ## Install

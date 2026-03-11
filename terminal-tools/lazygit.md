@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/jesseduffield/lazygit)
+- [GitHub Repository](https://github.com/jesseduffield/lazygit) ⭐ 74.0k
 
 ## Install
 

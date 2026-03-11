@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/junegunn/fzf)
+- [GitHub Repository](https://github.com/junegunn/fzf) ⭐ 78.6k
 - [Official Docs](https://junegunn.github.io/fzf/)
 - [Installation Guide](https://junegunn.github.io/fzf/installation/)
 

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://renderdoc.org/)
-- [GitHub Repository](https://github.com/baldurk/renderdoc)
+- [GitHub Repository](https://github.com/baldurk/renderdoc) ⭐ 10.5k
 - [Documentation](https://renderdoc.org/docs/)
 - [Downloads](https://renderdoc.org/builds)
 

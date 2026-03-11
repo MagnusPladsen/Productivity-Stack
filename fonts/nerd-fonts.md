@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://nerdfonts.com)
-- [GitHub Repository](https://github.com/ryanoasis/nerd-fonts)
+- [GitHub Repository](https://github.com/ryanoasis/nerd-fonts) ⭐ 62.0k
 
 ## Install
 

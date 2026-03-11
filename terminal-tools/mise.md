@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://mise.jdx.dev/)
-- [GitHub Repository](https://github.com/jdx/mise)
+- [GitHub Repository](https://github.com/jdx/mise) ⭐ 25.5k
 
 ## Install
 

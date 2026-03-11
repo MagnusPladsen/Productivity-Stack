@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://vscodium.com)
-- [GitHub Repository](https://github.com/VSCodium/vscodium)
+- [GitHub Repository](https://github.com/VSCodium/vscodium) ⭐ 30.4k
 
 ## Install
 

@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://www.usebruno.com/)
-- [GitHub Repository](https://github.com/usebruno/bruno)
+- [GitHub Repository](https://github.com/usebruno/bruno) ⭐ 41.7k
 - [Documentation](https://docs.usebruno.com/)
 
 ## Install

@@ -9,7 +9,7 @@
 
 ## Links
 - [Official Website](https://bitwarden.com)
-- [GitHub Repository](https://github.com/bitwarden/clients)
+- [GitHub Repository](https://github.com/bitwarden/clients) ⭐ 12.5k
 
 ## Install
 

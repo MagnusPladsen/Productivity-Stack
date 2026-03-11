@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://jqlang.org/)
-- [GitHub Repository](https://github.com/jqlang/jq)
+- [GitHub Repository](https://github.com/jqlang/jq) ⭐ 33.9k
 - [Download Page](https://jqlang.org/download/)
 
 ## Install

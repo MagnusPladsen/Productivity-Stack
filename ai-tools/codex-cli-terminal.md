@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://developers.openai.com/codex/cli)
-- [GitHub Repository](https://github.com/openai/codex)
+- [GitHub Repository](https://github.com/openai/codex) ⭐ 64.6k
 - [npm Package](https://www.npmjs.com/package/@openai/codex)
 
 ## Install

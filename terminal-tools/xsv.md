@@ -5,7 +5,7 @@
 **Platforms:** macOS, Linux, Windows
 
 ## Links
-- [GitHub Repository](https://github.com/BurntSushi/xsv)
+- [GitHub Repository](https://github.com/BurntSushi/xsv) ⭐ 10.8k
 
 ## Install
 

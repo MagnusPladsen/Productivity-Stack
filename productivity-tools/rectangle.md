@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://rectangleapp.com/)
-- [GitHub Repository](https://github.com/rxhanson/Rectangle)
+- [GitHub Repository](https://github.com/rxhanson/Rectangle) ⭐ 28.6k
 
 ## Install
 

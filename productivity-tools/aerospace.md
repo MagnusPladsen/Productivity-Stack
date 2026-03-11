@@ -5,7 +5,7 @@
 **Platforms:** macOS
 
 ## Links
-- [GitHub Repository](https://github.com/nikitabobko/AeroSpace)
+- [GitHub Repository](https://github.com/nikitabobko/AeroSpace) ⭐ 19.5k
 - [Documentation](https://nikitabobko.github.io/AeroSpace/guide)
 
 ## Install

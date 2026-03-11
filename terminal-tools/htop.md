@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://htop.dev/)
-- [GitHub Repository](https://github.com/htop-dev/htop)
+- [GitHub Repository](https://github.com/htop-dev/htop) ⭐ 7.9k
 - [Downloads](https://htop.dev/downloads.html)
 
 ## Install

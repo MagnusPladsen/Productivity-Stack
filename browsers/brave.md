@@ -8,7 +8,7 @@
 
 ## Links
 - [Official Website](https://brave.com)
-- [GitHub Repository](https://github.com/brave/brave-browser)
+- [GitHub Repository](https://github.com/brave/brave-browser) ⭐ 21.9k
 
 ## Install
 

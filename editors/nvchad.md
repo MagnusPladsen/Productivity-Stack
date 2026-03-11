@@ -6,7 +6,7 @@
 
 ## Links
 - [Official Website](https://nvchad.com/)
-- [GitHub Repository](https://github.com/NvChad/NvChad)
+- [GitHub Repository](https://github.com/NvChad/NvChad) ⭐ 28k
 - [Installation Guide](https://nvchad.com/docs/quickstart/install/)
 
 ## Install
