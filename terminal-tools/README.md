@@ -27,3 +27,16 @@ Command-line utilities and shell tools to enhance your terminal workflow.
 | [gh](gh.md) | macOS, Linux, Windows | Yes | GitHub's official CLI — manage pull requests, issues, and repos from the terminal |
 | [yazi](yazi.md) | macOS, Linux, Windows | Yes | Blazing-fast terminal file manager written in Rust, with image previews and async I/O |
 | [jolt](jolt.md) | macOS, Linux | Yes | Real-time battery and energy monitor TUI — shows power draw, process energy usage, and battery health |
+| [delta](delta.md) | macOS, Linux, Windows | Yes | Syntax-highlighting pager for git diffs, blame, grep, and show output |
+| [starship](starship.md) | macOS, Linux, Windows | Yes | Blazing-fast cross-shell prompt written in Rust — minimal and infinitely customizable |
+| [atuin](atuin.md) | macOS, Linux, Windows | Free (managed sync has paid tiers) | Replaces shell history with a SQLite database, adds fuzzy search, and supports optional encrypted cross-machine sync |
+| [lazydocker](lazydocker.md) | macOS, Linux, Windows | Yes | Simple terminal UI for managing Docker containers, images, volumes, and networks |
+| [zellij](zellij.md) | macOS, Linux | Yes | Modern terminal multiplexer with a built-in layout system, floating panes, and WebAssembly plugin support |
+| [hyperfine](hyperfine.md) | macOS, Linux, Windows | Yes | Statistical command-line benchmarking tool — reports mean, standard deviation, and outliers across multiple runs |
+| [gitui](gitui.md) | macOS, Linux, Windows | Yes | Fast terminal UI for git written in Rust — stage, commit, branch, and view diffs without leaving the terminal |
+| [chezmoi](chezmoi.md) | macOS, Linux, Windows | Yes | Dotfile manager with templating, secrets integration, and cross-machine sync |
+| [navi](navi.md) | macOS, Linux, Windows | Yes | Interactive CLI cheatsheet tool — browse, search, and execute shell snippets with fuzzy search |
+| [mise](mise.md) | macOS, Linux, Windows | Yes | Polyglot runtime version manager replacing nvm, pyenv, rbenv, and asdf in a single tool |
+| [broot](broot.md) | macOS, Linux, Windows | Yes | Interactive directory tree navigator with fuzzy search and file preview |
+| [bottom](bottom.md) | macOS, Linux, Windows | Yes | Graphical cross-platform process and system monitor with customizable widgets — invoked as `btm` |
+| [dust](dust.md) | macOS, Linux, Windows | Yes | Visual disk usage tool that shows a tree of directories sorted by size — a more intuitive `du` replacement |
