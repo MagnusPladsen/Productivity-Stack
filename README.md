@@ -7,7 +7,8 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Kitty](#kitty)  
 - [iTerm2](#iterm2)  
 - [Warp](#warp)  
-- [Ghostty](#ghostty)  
+- [Ghostty](#ghostty)
+- [cmux](#cmux)
 
 ### Terminal Tools  
 - [Oh My Zsh](#oh-my-zsh)  
@@ -25,7 +26,12 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [tldr](#tldr)  
 - [jq](#jq)  
 - [ncdu](#ncdu)  
-- [asciinema](#asciinema)  
+- [asciinema](#asciinema)
+- [Taproom](#taproom)
+- [fastfetch](#fastfetch)
+- [figlet](#figlet)
+- [thefuck](#thefuck)
+- [gh](#gh)
 
 ### Editors  
 - [Zed](#zed)
@@ -75,6 +81,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Aerospace](#aerospace)  
 - [Sketchybar](#sketchybar)
 - [Janky Borders](#janky-borders)
+- [CheatSheet](#cheatsheet)
 
 ### Image Editing  
 - [GIMP](#gimp)  
@@ -100,9 +107,13 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 **Warp** gives you an AI terminal for Mac. The AI allows you to be more productive by including features like command prediction, auto fill, and auto complete.  
 🔗 [Warp Official Website](https://www.warp.dev/)  
 
-### Ghostty  
-**Ghostty** is a modern terminal emulator with built-in support for tabs, splits, and a focus on performance.  
-🔗 [Ghostty GitHub Repository](https://github.com/Ghostty)  
+### Ghostty
+**Ghostty** is a modern terminal emulator with built-in support for tabs, splits, and a focus on performance.
+🔗 [Ghostty GitHub Repository](https://github.com/Ghostty)
+
+### cmux
+**cmux** is a native macOS terminal built on Ghostty with vertical tabs, notification rings, split panes, and a socket API, designed for multitasking with AI coding agents.
+🔗 [cmux Official Website](https://www.cmux.dev/)
 
 * * *
 
@@ -167,9 +178,29 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 **ncdu** is a disk usage analyzer with an easy-to-use interface for exploring and managing disk space.  
 🔗 [ncdu Official Website](https://dev.yorhel.nl/ncdu)  
 
-### asciinema  
-**asciinema** is a terminal session recorder that allows you to share your terminal sessions as interactive videos.  
-🔗 [asciinema Official Website](https://asciinema.org/)  
+### asciinema
+**asciinema** is a terminal session recorder that allows you to share your terminal sessions as interactive videos.
+🔗 [asciinema Official Website](https://asciinema.org/)
+
+### Taproom
+**Taproom** is an interactive TUI for Homebrew that lets you search, explore, install, and remove formulae and casks with real-time filtering and dependency visualization.
+🔗 [Taproom GitHub Repository](https://github.com/hzqtc/taproom)
+
+### fastfetch
+**fastfetch** is a fast and highly customizable system information tool, displaying details like OS, kernel, CPU, GPU, and memory in a visually appealing format.
+🔗 [fastfetch GitHub Repository](https://github.com/fastfetch-cli/fastfetch)
+
+### figlet
+**figlet** is a program that generates large text banners from terminal input, useful for adding visual flair to scripts, READMEs, and terminal output.
+🔗 [figlet Official Website](http://www.figlet.org/)
+
+### thefuck
+**thefuck** is a tool that auto-corrects your previous console command when you make a typo or mistake, saving you from retyping.
+🔗 [thefuck GitHub Repository](https://github.com/nvbn/thefuck)
+
+### gh
+**gh** is GitHub's official command-line tool for managing pull requests, issues, repositories, and workflows directly from the terminal.
+🔗 [gh Official Website](https://cli.github.com/)
 
 * * *
 
@@ -331,9 +362,13 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 **Sketchybar** is a highly customizable status bar for macOS, replacing the default menu bar with minimalistic or feature-rich displays (e.g., CPU, time, weather).
 🔗 [Sketchybar GitHub](https://github.com/FelixKratz/SketchyBar)    
 
-### Janky Borders 
+### Janky Borders
 **Janky Borders** adds subtle colored borders to windows (macOS/Linux) for visual distinction, useful for tiling WM users or multi-monitor setups.
-🔗 [Janky Borders GitHub](https://github.com/noctuid/janky-borders)    
+🔗 [Janky Borders GitHub](https://github.com/noctuid/janky-borders)
+
+### CheatSheet
+**CheatSheet** is a macOS utility that shows all available keyboard shortcuts for the current application when you hold the Command key.
+🔗 [CheatSheet Official Website](https://www.mediaatelier.com/CheatSheet/)
 
 * * *
 
