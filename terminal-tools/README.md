@@ -40,3 +40,18 @@ Command-line utilities and shell tools to enhance your terminal workflow.
 | [broot](broot.md) | macOS, Linux, Windows | Yes | Interactive directory tree navigator with fuzzy search and file preview |
 | [bottom](bottom.md) | macOS, Linux, Windows | Yes | Graphical cross-platform process and system monitor with customizable widgets — invoked as `btm` |
 | [dust](dust.md) | macOS, Linux, Windows | Yes | Visual disk usage tool that shows a tree of directories sorted by size — a more intuitive `du` replacement |
+| [croc](croc.md) | macOS, Linux, Windows | Yes | Easily and securely send files and folders between any two computers using an encrypted relay |
+| [difftastic](difftastic.md) | macOS, Linux, Windows | Yes | Structural diff tool that compares files by syntax tree rather than line-by-line — understands code |
+| [fx](fx.md) | macOS, Linux, Windows | Yes | Interactive terminal JSON/YAML/TOML viewer and processor with collapsible tree and JS expressions |
+| [vhs](vhs.md) | macOS, Linux, Windows | Yes | Record terminal GIFs and videos from a deterministic `.tape` script file |
+| [gron](gron.md) | macOS, Linux, Windows | Yes | Flattens JSON into grep-friendly path assignments and can reverse the operation back to JSON |
+| [xsv](xsv.md) | macOS, Linux, Windows | Yes | Fast CSV command-line toolkit for slicing, filtering, joining, and analyzing CSV files (archived) |
+| [bandwhich](bandwhich.md) | macOS, Linux, Windows | Yes | Real-time terminal UI showing network bandwidth usage broken down by process and connection |
+| [sd](sd.md) | macOS, Linux, Windows | Yes | Intuitive find-and-replace CLI using modern regex syntax — a simpler alternative to sed |
+| [xh](xh.md) | macOS, Linux, Windows | Yes | Friendly and fast HTTP client with HTTPie-compatible syntax and no Python dependency |
+| [pueue](pueue.md) | macOS, Linux, Windows | Yes | Queue and manage long-running shell commands with a persistent background daemon |
+| [procs](procs.md) | macOS, Linux, Windows | Yes | Modern, colorful replacement for ps with port info, Docker names, and throughput columns |
+| [trippy](trippy.md) | macOS, Linux, Windows, BSD | Yes | Network diagnostic TUI combining traceroute and ping with live per-hop statistics |
+| [git-absorb](git-absorb.md) | macOS, Linux, Windows | Yes | Automatically absorbs staged changes into the correct commit — automates `git commit --fixup` |
+| [doggo](doggo.md) | macOS, Linux, Windows | Yes | Human-friendly DNS client with colorized output and support for DoH, DoT, and DoQ |
+| [oh-my-posh](oh-my-posh.md) | macOS, Linux, Windows | Yes | Cross-shell prompt theme engine with 100+ themes, works identically across Bash, Zsh, Fish, and PowerShell |
