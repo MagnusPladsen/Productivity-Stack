@@ -84,6 +84,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Obsidian](note-taking/obsidian.md)
 - [Joplin](note-taking/joplin.md) ⭐ 53.8k
 - [Notion](note-taking/notion.md)
+- [AFFiNE](note-taking/affine.md) ⭐ 65.8k
 
 ### [Development Tools](development-tools/README.md)
 - [Bruno](development-tools/bruno.md) ⭐ 41.7k
@@ -99,6 +100,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Beekeeper Studio](development-tools/beekeeper-studio.md) ⭐ 22.2k
 - [Portainer](development-tools/portainer.md) ⭐ 36.8k
 - [Hurl](development-tools/hurl.md) ⭐ 18.6k
+- [Conductor](development-tools/conductor.md) ⭐ 18.4k
 
 ### [Design Tools](design-tools/README.md)
 - [Penpot](design-tools/penpot.md) ⭐ 44.8k
@@ -130,6 +132,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Antigravity](ai-tools/antigravity.md)
 - [Kiro](ai-tools/kiro.md) ⭐ 3.2k
 - [Pencil](ai-tools/pencil.md)
+- [T3 Code](ai-tools/t3-code.md) ⭐ 6.5k
 
 ### [Package Managers](package-managers/README.md)
 - [Homebrew](package-managers/homebrew.md) ⭐ 47.0k
@@ -174,6 +177,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Grafana](monitoring/grafana.md) ⭐ 72.7k
 - [Netdata](monitoring/netdata.md) ⭐ 78.0k
 - [k6](monitoring/k6.md) ⭐ 30.1k
+- [Superset](monitoring/superset.md) ⭐ 71.0k
 
 ### [Virtualization](virtualization/README.md)
 - [Podman](virtualization/podman.md) ⭐ 31.0k
