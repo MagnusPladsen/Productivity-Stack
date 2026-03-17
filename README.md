@@ -132,6 +132,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Antigravity](ai-tools/antigravity.md)
 - [Kiro](ai-tools/kiro.md) ⭐ 3.2k
 - [Pencil](ai-tools/pencil.md)
+- [Superset](ai-tools/superset.md) ⭐ 7.3k
 - [T3 Code](ai-tools/t3-code.md) ⭐ 6.5k
 
 ### [Package Managers](package-managers/README.md)
@@ -177,7 +178,6 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Grafana](monitoring/grafana.md) ⭐ 72.7k
 - [Netdata](monitoring/netdata.md) ⭐ 78.0k
 - [k6](monitoring/k6.md) ⭐ 30.1k
-- [Superset](monitoring/superset.md) ⭐ 71.0k
 
 ### [Virtualization](virtualization/README.md)
 - [Podman](virtualization/podman.md) ⭐ 31.0k

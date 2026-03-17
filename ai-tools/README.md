@@ -25,4 +25,5 @@ AI coding agents, model interfaces, and routing tools.
 | [Tabby](tabby.md) ⭐ 33.0k | macOS, Linux, Windows | Yes | Self-hosted AI coding assistant, 100% free when self-hosted |
 | [Windsurf](windsurf.md) | macOS, Linux, Windows | No | AI-first code editor (VS Code fork); free tier: 25 prompt credits/month |
 | [Pencil](pencil.md) | VS Code / Cursor + macOS | No | AI-native design canvas in your IDE; exports to React/HTML/CSS; free in early access (Claude Code subscription required for AI) |
+| [Superset](superset.md) ⭐ 7.3k | macOS, Windows, Linux | Yes | IDE for AI coding agents — run 10+ parallel agents in isolated Git worktrees |
 | [T3 Code](t3-code.md) ⭐ 6.5k | macOS, Linux, Windows | Yes | Desktop app and web GUI for managing AI coding agents with multi-repo and worktree support |
