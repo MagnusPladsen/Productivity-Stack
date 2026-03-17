@@ -100,7 +100,6 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Beekeeper Studio](development-tools/beekeeper-studio.md) ⭐ 22.2k
 - [Portainer](development-tools/portainer.md) ⭐ 36.8k
 - [Hurl](development-tools/hurl.md) ⭐ 18.6k
-- [Conductor](development-tools/conductor.md) ⭐ 18.4k
 
 ### [Design Tools](design-tools/README.md)
 - [Penpot](design-tools/penpot.md) ⭐ 44.8k
@@ -116,6 +115,7 @@ A curated list of FREE programs and tools to optimize your workflow and boost pr
 - [Claude Code (Terminal)](ai-tools/claude-code-terminal.md) ⭐ 76.6k
 - [Crush](ai-tools/crush.md) ⭐ 21.2k
 - [Codex App](ai-tools/codex-app.md)
+- [Conductor](ai-tools/conductor.md)
 - [Codex CLI (Terminal)](ai-tools/codex-cli-terminal.md) ⭐ 64.6k
 - [OpenCode](ai-tools/opencode.md) ⭐ 11.3k
 - [Ollama](ai-tools/ollama.md) ⭐ 164.9k

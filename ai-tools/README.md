@@ -10,6 +10,7 @@ AI coding agents, model interfaces, and routing tools.
 | [Cline](cline.md) ⭐ 58.9k | macOS, Linux, Windows | Yes | Autonomous AI coding agent for VS Code (BYOK) |
 | [Codex CLI](codex-cli-terminal.md) ⭐ 64.6k | macOS, Linux, Windows | Yes | OpenAI's lightweight agentic coding tool for the terminal |
 | [Codex (Web App)](codex-app.md) | Web | No | OpenAI's cloud-based AI software engineering agent |
+| [Conductor](conductor.md) | macOS | No | Orchestrate parallel AI coding agents across isolated workspaces |
 | [Continue](continue.md) ⭐ 31.8k | macOS, Linux, Windows | Yes | Open-source Copilot replacement for VS Code and JetBrains (BYOK) |
 | [Crush](crush.md) ⭐ 21.2k | macOS, Linux, Windows | Yes | Charmbracelet's glamorous multi-LLM coding agent for the terminal |
 | [Cursor](cursor.md) | macOS, Linux, Windows | No | AI code editor with deep codebase understanding; free tier: 2,000 completions + 50 premium requests/month |

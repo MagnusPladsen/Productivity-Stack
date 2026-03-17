@@ -17,4 +17,3 @@ API clients, database managers, containers, debuggers, and CLI utilities for dev
 | [RAD Debugger](rad-debugger.md) ⭐ 6.7k | Windows | Yes | Native, multi-process graphical debugger (alpha) |
 | [RenderDoc](renderdoc.md) ⭐ 10.5k | Windows, Linux | Yes | Graphics frame debugger for Vulkan, D3D, and OpenGL |
 | [Hurl](hurl.md) ⭐ 18.6k | macOS, Linux, Windows | Yes | Plain-text HTTP request runner for testing APIs in CI/CD pipelines |
-| [Conductor](conductor.md) ⭐ 18.4k | macOS, Linux, Windows | Yes | Microservices and workflow orchestration engine originally built by Netflix |
